@@ -28,14 +28,13 @@ https://github.com/devicons/devicon/
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/SKindij/SKindij/blob/main/logos/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/SKindij/SKindij/blob/main/logos/css3-logo.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/SKindij/SKindij/blob/main/logos/sass-logo.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/SKindij/SKindij/blob/main/logos/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/SKindij/SKindij/blob/main/logos/markdown-logo.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SKindij/SKindij/blob/main/logos/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;   
+  <img src="https://github.com/SKindij/SKindij/blob/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SKindij/SKindij/blob/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 </div>  
 
 ---
