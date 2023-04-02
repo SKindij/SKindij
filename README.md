@@ -35,8 +35,8 @@ https://github.com/devicons/devicon/
   <img src="https://github.com/SKindij/SKindij/blob/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/SKindij/SKindij/blob/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/react-logo.svg" title="React" alt="React" width="40" height="40"/>
-  
+  <img src="https://github.com/SKindij/SKindij/blob/main/logos/react-logo.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SKindij/SKindij/blob/main/logos/bootstrap-logo.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>  
 </div>  
 
 ---
