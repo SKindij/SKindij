@@ -21,33 +21,64 @@ https://github.com/devicons/devicon/
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="150"/>
 </div>
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-#### Server-side Development
-<div>   
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
-</div>  
-
-#### Tooling and Build Automation:
-<div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/markdown-logo.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
-</div>  
-
-#### Web Development:
-<div>  
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/css3-logo.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/sass-logo.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;   
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/react-logo.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SKindij/SKindij/blob/main/logos/bootstrap-logo.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>  
-</div>  
+<table align="center">
+  <thead align="center">
+    <tr>  
+      <th colspan="7" border: none;> :hammer_and_wrench: Languages and Tools </th>  </tr>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Server-side Development</b></a></td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="55" /></td>
+      <td> ... </td>
+      <td> ... </td>
+      <td> ... </td>
+      <td> ... </td>
+      <td> ... </td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Tooling and Build Automation</b></a></td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/git-logo.svg" title="Git" alt="Git" width="50" />
+      </td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/markdown-logo.svg" title="Markdown" alt="Markdown" width="40" />  
+      </td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" />
+      </td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="70"/>   
+      </td>      
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" />
+      </td>
+      <td> ... </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Web Development</b></a></td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/react-logo.svg" title="React" alt="React" width="40" /> 
+      </td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="35" />  
+      </td>      
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/sass-logo.svg"  title="SASS" alt="SASS" width="35" />
+      </td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/bootstrap-logo.svg" title="Bootstrap" alt="bootstrap" width="35" />  
+      </td>      
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/html5-logo.svg" title="HTML5" alt="HTML" width="35" />
+      </td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/css3-logo.svg"  title="CSS3" alt="CSS" width="35" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
