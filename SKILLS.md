@@ -17,46 +17,43 @@ ___
 
 ### JAVASCRIPT
 
-| Syntax         | Statements         | Functions             | Arrays              | Objects       | Asynchronous Programming | Regular Expressions |
-|----------------|--------------------|-----------------------|---------------------|---------------|--------------------------|---------------------|
-|  Variables:    |                    |                       |                     |               |                          |                     |
-| 🟦 declaration | 🟦  | 🟦 declaration    |                     |               |                          |                     |
-| 🟦 assignment  | 🟦  | 🟦 expression     |                     |               |                          |                     |
-| 🟦 scope       | 🟦  | 🟦 arrow func     |                     |               |                          |                     |
-| 🟦 hoisting    | 🟦  | 🟦 anonymous func |                     |               |                          |                     |
-| 🟦 naming      |     | Parameters:        |                     |               |                          |                     |
-| Data types:    | 🟦  | 🟦 positional     |                     |               |                          |                     |
-| 🟦 strings     | 🟦 | 🟦 default         |                     |               |                          |                     |
-| 🟦 numbers     |    | 🟦 rest            |                     |               |                          |                     |
-| 🟦 booleans    |    | Arguments:         |                     |               |                          |                     |
-| 🟦 null        |    | 🟦 arg object      |                     |               |                          |                     |
-| 🟦 undefined   |    | 🟦 destructuring   |                     |               |                          |                     |
-| 🟦 objects     |    | 🟦 spreading arg   |                     |               |                          |                     |
-| 🟦 symbols     |    | Return:            |                     |               |                          |                     |
-| 🟦 BigInt      |    | 🟦 statement       |                     |               |                          |                     |
-| Operators:     |    | 🟦 values          |                     |               |                          |                     |
-| 🟦 arithmetic  |   | 🟩 implicit         |                     |               |                          |                     |
-| 🟦 comparison  |   | Recursion:          |                     |               |                          |                     |
-| 🟦 logical     |    | 🟩 recursive func  |                     |               |                          |                     |
-| ⬜ bitwise     |    | 🟩 base cases      |                     |               |                          |                     |
-| 🟦 assignment  |    | Closure:           |                     |               |                          |                     |
-| Control flow:  |     | 🟩 lexical scope  |                     |               |                          |                     |
-| 🟦 if/else     |    | 🟩 closure func   |                     |               |                          |                     |
-| 🟦 switch      |    | Callbacks:         |                     |               |                          |                     |
-| 🟦 for         |    | 🟦 higher-order func|                     |               |                          |                     |
-| 🟦 while       |    | 🟦 callback func    |                     |               |                          |                     |
-| 🟦 do..while   |    |                       |                     |               |                          |                     |
-|             |      |                       |                     |               |                          |                     |
-| 🟦         |      |                       |                     |               |                          |                     |
-|            |      |                       |                     |               |                          |                     |
-|            |      |                       |                     |               |                          |                     |
-|            |      |                       |                     |               |                          |                     |
-
-
-
-
-
-
+| Syntax         | Control flow           | Functions             | Arrays              | Objects       | Asynchronous Programming | Regular Expressions |
+|----------------|------------------------|-----------------------|---------------------|---------------|--------------------------|---------------------|
+|  Variables:    | Conditional statements:|                       |                     |               |                          |                     |
+| 🟦 declaration | 🟦 if/else            | 🟦 declaration    |                     |               |                          |                     |
+| 🟦 assignment  | 🟦 switch             | 🟦 expression     |                     |               |                          |                     |
+| 🟦 scope       | 🟦 ternary operator   | 🟦 arrow func     |                     |               |                          |                     |
+| 🟦 hoisting    | Loops:                | 🟦 anonymous func |                     |               |                          |                     |
+| 🟦 naming      | 🟦 for                | Parameters:        |                     |               |                          |                     |
+| Data types:    | 🟦 while              | 🟦 positional     |                     |               |                          |                     |
+| 🟦 strings     | 🟦 do..while          | 🟦 default         |                     |               |                          |                     |
+| 🟦 numbers     | Controls:             | 🟦 rest            |                     |               |                          |                     |
+| 🟦 booleans    | 🟩 break              | Arguments:         |                     |               |                          |                     |
+| 🟦 null        | 🟩 continue           | 🟦 arg object      |                     |               |                          |                     |
+| 🟦 undefined   | 🟩 return             | 🟦 destructuring   |                     |               |                          |                     |
+| 🟦 objects     | Exception handling:   | 🟦 spreading arg   |                     |               |                          |                     |
+| 🟦 symbols     | 🟦 try..catch         | Return:            |                     |               |                          |                     |
+| 🟦 BigInt      | 🟩 throw              | 🟦 statement       |                     |               |                          |                     |
+| Operators:     | 🟦 finally            | 🟦 values          |                     |               |                          |                     |
+| 🟦 arithmetic  |                      | 🟩 implicit         |                     |               |                          |                     |
+| 🟦 comparison  |                      | Recursion:          |                     |               |                          |                     |
+| 🟦 logical     |                      | 🟩 recursive func  |                     |               |                          |                     |
+| ⬜ bitwise     |                      | 🟩 base cases      |                     |               |                          |                     |
+| 🟦 assignment  |                      | Closure:           |                     |               |                          |                     |
+| Code blocks:   |                      | 🟩 lexical scope  |                     |               |                          |                     |
+| 🟦 scope       |                      | 🟩 closure func   |                     |               |                          |                     |
+| 🟦 let         |                      | Callbacks:         |                     |               |                          |                     |
+| 🟦 const       |                      | 🟦 higher-order func|                     |               |                          |                     |
+| 🟦 functions   |                      | 🟦 callback func    |                     |               |                          |                     |
+| Lexical scope: |       |                       |                     |               |                          |                     |
+| 🟦 global      |      |                       |                     |               |                          |                     |
+| 🟦 function    |      |                       |                     |               |                          |                     |
+| 🟦 block       |      |                       |                     |               |                          |                     |
+| Literals:      |      |                       |                     |               |                          |                     |
+| 🟦 string      |      |      |      |     |        |        |
+| 🟦 numeric     |      |      |      |     |        |        |
+| 🟦 boolean     |      |      |      |     |        |        |
+| 🟦 object      |      |      |      |     |        |        |
 
 ### HTML & CSS
 
