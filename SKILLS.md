@@ -17,6 +17,50 @@ ___
 
 ### JAVASCRIPT
 
+| Syntax         | Statements            | Functions             | Arrays              | Objects       | Asynchronous Programming | Regular Expressions |
+|----------------|-----------------------|-----------------------|---------------------|---------------|--------------------------|---------------------|
+|  Variables:    |                       |                       |                     |               |                          |                     |
+| 🟦 declaration | 🟦 declaration   |                       |                     |               |                          |                     |
+| 🟦 assignment  | 🟦           |                       |                     |               |                          |                     |
+| 🟦 scope       | 🟦           |                       |                     |               |                          |                     |
+| 🟦 hoisting    | 🟦           |                       |                     |               |                          |                     |
+| 🟦 naming      |              |                       |                     |               |                          |                     |
+| Data types:    |          |                       |                     |               |                          |                     |
+| 🟦 strings     |          |                       |                     |               |                          |                     |
+| 🟦 numbers     |            |                       |                     |               |                          |                     |
+| 🟦 booleans    |           |                       |                     |               |                          |                     |
+| 🟦 null        |           |                       |                     |               |                          |                     |
+| 🟦 undefined   |            |                       |                     |               |                          |                     |
+| 🟦 objects     |          |                       |                     |               |                          |                     |
+| 🟦 symbols     |           |                       |                     |               |                          |                     |
+| 🟦 BigInt      |          |                       |                     |               |                          |                     |
+| Operators:     |           |                       |                     |               |                          |                     |
+| 🟦 arithmetic  |            |                       |                     |               |                          |                     |
+| 🟦 comparison  |             |                       |                     |               |                          |                     |
+| 🟦 logical     |             |                       |                     |               |                          |                     |
+| ⬜ bitwise     |             |                       |                     |               |                          |                     |
+| 🟦 assignment  |           |                       |                     |               |                          |                     |
+| Control flow:  |             |                       |                     |               |                          |                     |
+| 🟦 if/else     |           |                       |                     |               |                          |                     |
+| 🟦 switch      |          |                       |                     |               |                          |                     |
+| 🟦 for         |          |                       |                     |               |                          |                     |
+| 🟦 while       |         |                       |                     |               |                          |                     |
+| 🟦 do..while   |          |                       |                     |               |                          |                     |
+|             |             |                       |                     |               |                          |                     |
+| 🟦            |            |                       |                     |               |                          |                     |
+|            |                       |                       |                     |               |                          |                     |
+|            |                       |                       |                     |               |                          |                     |
+|            |                       |                       |                     |               |                          |                     |
+|            |                       |                       |                     |               |                          |                     |
+|            |                       |                       |                     |               |                          |                     |
+|            |                       |                       |                     |               |                          |                     |
+|            |                       |                       |                     |               |                          |                     |
+|            |                       |                       |                     |               |                          |                     |
+|            |                       |                       |                     |               |                          |                     |
+
+
+
+
 
 
 
