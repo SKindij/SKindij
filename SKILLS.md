@@ -17,45 +17,45 @@ ___
 
 ### JAVASCRIPT
 
-| Syntax         | Control flow           | Functions          |  Objects             | Asynchronous Programming | Regular Expressions |      |
-|:----------------|:--------------------|:-----------------|:--------------------|:------------------------|:-------------------|:----|
-|  Variables:    | Conditional statements:| Basics:            | Basics:              | Basics:     |                          |    |
-| 🟦 declaration | 🟦 if/else            | 🟦 declaration    | 🟦 obj literals      |             |                          |             |
-| 🟦 assignment  | 🟦 switch             | 🟦 expression     | 🟩 constructor func  |               |                          |          |
-| 🟦 scope       | 🟦 ternary operator   | 🟦 arrow func     | 🟩 classes           |               |                          |           |
-| 🟦 hoisting    | Loops:                | 🟦 anonymous func  | 🟦 this              |               |                          |           |
-| 🟦 naming      | 🟦 for                | Parameters:        | 🟩 prototype chain   |               |                          |            |
-| Data types:    | 🟦 while              | 🟦 positional      | 🟩 destructuring     |               |                          |          |
-| 🟦 strings     | 🟦 do..while          | 🟦 default         | Properties:          |               |                          |            |
-| 🟦 numbers     | Controls:             | 🟦 rest            | 🟩 access            |               |                          |            |
-| 🟦 booleans    | 🟩 break              | Arguments:         | 🟩 assignment        |               |                          |            |
-| 🟦 null        | 🟩 continue           | 🟦 arg object      | 🟩 descriptors      |               |                          |          |
-| 🟦 undefined   | 🟩 return             | 🟦 destructuring   | 🟩 computed prop    |               |                          |             |
-| 🟦 objects     | Exception handling:   | 🟦 spreading arg   | Methods:             |               |                          |            |
-| 🟦 symbols     | 🟦 try..catch         | Return:            | 🟩 definitions       |               |                          |             |
-| 🟦 BigInt      | 🟩 throw              | 🟦 statement       | 🟩 this keyword     |               |                          |            |
-| Operators:     | 🟦 finally            | 🟦 values          | 🟩 chaining          |               |                          |             |
-| 🟦 arithmetic  |  x  x  x  x  x        | 🟩 implicit         | Inheritance:         |               |                          |          |
-| 🟦 comparison  |                       | Recursion:          | 🟩 patterns          |               |                          |           |
-| 🟦 logical     |  Arrays               | 🟩 recursive func   | 🟩 obj composition   |               |                          |               |
-| ⬜ bitwise     |  -------------------  | 🟩 base cases       | Encapsulation:       |               |                          |               |
-| 🟦 assignment  |  Basics:              | Closure:            | 🟩 getters & setters |               |                          |             |
-| Code blocks:   | 🟦 declaration        | 🟩 lexical scope    | 🟩 private variables |               |                          |           |
-| 🟦 scope       | 🟦 initialization     | 🟩 closure func     | 🟩 closure func      |               |                          |             |
-| 🟦 let         | 🟦 accessing          | Callbacks:          | Polymorphism:         |               |                          |              |
-| 🟦 const       | Arr methods:          | 🟦 higher-order func| 🟩 overriding        |               |                          |             |
-| 🟦 functions   | 🟦 .push & .unshift   | 🟦 callback func    | 🟩 overloading       |               |                          |            |
-| Lexical scope: | 🟦 .pop & .shift      |              | 🟩 dynamic dispatch      |        |                          |                     |
-| 🟦 global      | 🟦 Array.isArray     |              |                     |               |                          |                     |
-| 🟦 function    | 🟦 .join & .split    |              |                     |               |                          |                     |
-| 🟦 block       | 🟦 .forEach          |              |                     |               |                          |                     |
-| Literals:      | 🟩 .map & .reduce     |               |                     |               |                          |                     |
-| 🟦 string     |🟦 .indexOf & .includes |      |      |     |        |        |
-| 🟦 numeric    | 🟦 .find & .findIndex  |      |      |     |        |        |
-| 🟦 boolean     | 🟦 .every & .some     |      |      |     |        |        |
-| 🟦 object      | 🟦 .filter & .splice  |      |      |     |        |        |
-|                 | 🟦 .slice & .concat  |      |      |     |        |        |
-|                 | 🟦 .sort & .reverse  |      |      |     |        |        |
+| Syntax          | Control flow          | Functions          |  Objects             | Asynchronous | Arrays            |      |
+|:----------------|:----------------------|:-------------------|:--------------------|:-------------|:-------------------|:----|
+|  Variables:    | Conditional statements:| Basics:            | Basics:              | Basics:     | Basics:            |    |
+| 🟦 declaration | 🟦 if/else            | 🟦 declaration    | 🟦 obj literals      |             | 🟦 declaration     |   |
+| 🟦 assignment  | 🟦 switch             | 🟦 expression     | 🟩 constructor func  |             | 🟦 initialization  |     |
+| 🟦 scope       | 🟦 ternary operator   | 🟦 arrow func     | 🟩 classes           |             | 🟦 accessing       |     |
+| 🟦 hoisting    | Loops:                | 🟦 anonymous func  | 🟦 this              |            |Methods (not change):|      |
+| 🟦 naming      | 🟦 for                | Parameters:        | 🟩 prototype chain   |             | 🟦 .find          |      |
+| Data types:    | 🟦 while              | 🟦 positional      | 🟩 destructuring     |             | 🟦 .findIndex     |     |
+| 🟦 strings     | 🟦 do..while          | 🟦 default         | Properties:          |             | 🟦 .indexOf       |      |
+| 🟦 numbers     | Controls:             | 🟦 rest            | 🟩 access            |             | 🟦 .lastIndexOf   |            |
+| 🟦 booleans    | 🟩 break              | Arguments:         | 🟩 assignment        |             | 🟦 .includes      |            |
+| 🟦 null        | 🟩 continue           | 🟦 arg object      | 🟩 descriptors      |             | 🟦 .every          |          |
+| 🟦 undefined   | 🟩 return             | 🟦 destructuring   | 🟩 computed prop    |              | 🟦 .some          |             |
+| 🟦 objects     | Exception handling:   | 🟦 spreading arg   | Methods:             |              | 🟦 .concat        |            |
+| 🟦 symbols     | 🟦 try..catch         | Return:            | 🟩 definitions       |             | 🟦 .join          |             |
+| 🟦 BigInt      | 🟩 throw              | 🟦 statement       | 🟩 this keyword     |              | 🟦 .filter        |            |
+| Operators:     | 🟦 finally            | 🟦 values          | 🟩 chaining          |              | 🟩 .flat         |             |
+| 🟦 arithmetic  |  x  x  x  x  x x  x   | 🟩 implicit         | Inheritance:         |             | 🟩 .flatMap       |          |
+| 🟦 comparison  |                       | Recursion:          | 🟩 patterns          |             | 🟩 .forEach       |           |
+| 🟦 logical     | Regular Expressions   | 🟩 recursive func   | 🟩 obj composition   |             | 🟩 .map           |               |
+| ⬜ bitwise     |  -------------------  | 🟩 base cases       | Encapsulation:       |             | 🟩 .reduce        |               |
+| 🟦 assignment  |  Basics:              | Closure:            | 🟩 getters & setters |             | 🟩 .reduceRight   |             |
+| Code blocks:   |             | 🟩 lexical scope    | 🟩 private variables |             | 🟩 .toString            |           |
+| 🟦 scope       |             | 🟩 closure func     | 🟩 closure func      |             | 🟩 .toLocaleString      |           |
+| 🟦 let         |             | Callbacks:          | Polymorphism:         |             | Methods (changing)     |            |
+| 🟦 const       | Arr :          | 🟦 higher-order func| 🟩 overriding        |          | 🟦 .push          |         |
+| 🟦 functions   |          | 🟦 callback func    | 🟩 overloading       |             | 🟦 .unshift          |            |
+| Lexical scope: | 🟦  &       |              | 🟩 dynamic dispatch      |        | 🟦 .pop                    |             |
+| 🟦 global      | 🟦 Array.isArray     |              |                     |               | 🟦 .shift       |             |
+| 🟦 function    | 🟦  & .split    |              |                     |               | 🟦 .sort         |             |
+| 🟦 block       | 🟦           |              |                     |               | 🟦 .reverse         |             |
+| Literals:      | 🟩  &      |               |                     |               | 🟩                  |              |
+| 🟦 string     |   |      |      |     |  🟩 .fill        |        |
+| 🟦 numeric    |    |      |      |     | 🟩 .copyWithin  |        |
+| 🟦 boolean     |      |      |      |     |        |        |
+| 🟦 object      |  & .splice  |      |      |     |        |        |
+|                 | 🟦 .slice   |      |      |     |        |        |
+|                 |  &   |      |      |     |        |        |
 |                 | Destructuring:       |      |      |     |        |        |
 |                 | 🟩 syntax           |      |      |     |        |        |
 |                | 🟩 swapping variables |      |      |     |        |        |
