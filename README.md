@@ -30,7 +30,7 @@ https://github.com/devicons/devicon/
   <tbody align="center">
     <tr>
       <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Server-side Development</b></a></td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="55" /></td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="60" /></td>
       <td> ... </td>
       <td> ... </td>
       <td> ... </td>
@@ -38,7 +38,7 @@ https://github.com/devicons/devicon/
       <td> ... </td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Tooling and Build Automation</b></a></td>
+      <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Development Tools and Workflow</b></a></td>
       <td>
         <img src="https://github.com/SKindij/SKindij/blob/main/logos/git-logo.svg" title="Git" alt="Git" width="50" />
       </td>
