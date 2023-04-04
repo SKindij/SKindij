@@ -40,25 +40,25 @@ ___
 | 🟦 logical     | Regular Expressions   | 🟩 recursive func   | 🟩 obj composition   |             | 🟩 .map           |               |
 | ⬜ bitwise     |  -------------------  | 🟩 base cases       | Encapsulation:       |             | 🟩 .reduce        |               |
 | 🟦 assignment  |  Basics:              | Closure:            | 🟩 getters & setters |             | 🟩 .reduceRight   |             |
-| Code blocks:   |             | 🟩 lexical scope    | 🟩 private variables |             | 🟩 .toString            |           |
-| 🟦 scope       |             | 🟩 closure func     | 🟩 closure func      |             | 🟩 .toLocaleString      |           |
-| 🟦 let         |             | Callbacks:          | Polymorphism:         |             | Methods (changing)     |            |
-| 🟦 const       | Arr :          | 🟦 higher-order func| 🟩 overriding        |          | 🟦 .push          |         |
-| 🟦 functions   |          | 🟦 callback func    | 🟩 overloading       |             | 🟦 .unshift          |            |
-| Lexical scope: | 🟦  &       |              | 🟩 dynamic dispatch      |        | 🟦 .pop                    |             |
-| 🟦 global      | 🟦 Array.isArray     |              |                     |               | 🟦 .shift       |             |
-| 🟦 function    | 🟦  & .split    |              |                     |               | 🟦 .sort         |             |
-| 🟦 block       | 🟦           |              |                     |               | 🟦 .reverse         |             |
-| Literals:      | 🟩  &      |               |                     |               | 🟩                  |              |
-| 🟦 string     |   |      |      |     |  🟩 .fill        |        |
-| 🟦 numeric    |    |      |      |     | 🟩 .copyWithin  |        |
-| 🟦 boolean     |      |      |      |     |        |        |
-| 🟦 object      |  & .splice  |      |      |     |        |        |
-|                 | 🟦 .slice   |      |      |     |        |        |
-|                 |  &   |      |      |     |        |        |
-|                 | Destructuring:       |      |      |     |        |        |
-|                 | 🟩 syntax           |      |      |     |        |        |
-|                | 🟩 swapping variables |      |      |     |        |        |
+| Code blocks:   | ⬜ regExp syntax      | 🟩 lexical scope    | 🟩 private variables |             | 🟩 .toString       |           |
+| 🟦 scope       | ⬜ egExp literals     | 🟩 closure func     | 🟩 closure func      |             | 🟩 .toLocaleString |           |
+| 🟦 let         | ⬜ RegExp constructor | Callbacks:          | Polymorphism:         |             | Methods (changing) |            |
+| 🟦 const       | RegExp methods:       | 🟦 higher-order func| 🟩 overriding        |             | 🟦 .push           |         |
+| 🟦 functions   | ⬜ test()            | 🟦 callback func    | 🟩 overloading       |             | 🟦 .unshift        |            |
+| Lexical scope: | ⬜ match()            |                    | 🟩 dynamic dispatch   |             | 🟦 .pop            |             |
+| 🟦 global      | ⬜ search()          |                     |                     |               | 🟦 .shift          |             |
+| 🟦 function    | ⬜ replace()         |                     |                     |               | 🟦 .sort           |             |
+| 🟦 block       | ⬜ split()           |                     |                     |               | 🟦 .reverse        |             |
+| Literals:      | ⬜ exec()            |                      |                     |               | 🟩 .fill           |              |
+| 🟦 string     | RegExp patterns:      |                      |                   |                 | 🟩 .copyWithin     |        |
+| 🟦 numeric    | ⬜ char classes       |                     |                   |                 | Other methods:      |        |
+| 🟦 boolean     | ⬜ quantifiers       |                    |                    |                 | 🟩 .split          |        |
+| 🟦 object      | ⬜ alternation       |                    |                    |                 | 🟩 .splice         |        |
+|                 | ⬜ grouping         |                     |                    |                | 🟩 .slice           |        |
+|                 | ⬜ flags            |                    |                    |                 | 🟦 Array.isArray    |        |
+|                 | Meta-characters:    |                     |                    |                 | Destructuring:       |        |
+|               | ⬜ dot, caret, dollar |                    |                     |                 | 🟩 syntax           |        |
+|              | ⬜ brackets, parentheses |                  |                     |               | 🟩 swapping variables |        |
 
 
 
