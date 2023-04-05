@@ -38,7 +38,7 @@ https://github.com/devicons/devicon/
       <td> ... </td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Development Tools and Workflow</b></a></td>
+      <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Tools and Workflow</b></a></td>
       <td>
         <img src="https://github.com/SKindij/SKindij/blob/main/logos/git-logo.svg" title="Git" alt="Git" width="50" />
       </td>
@@ -52,7 +52,7 @@ https://github.com/devicons/devicon/
         <img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="70"/>   
       </td>      
       <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="30" />
       </td>
       <td> ... </td>
     </tr>
