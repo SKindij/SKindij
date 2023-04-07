@@ -37,8 +37,15 @@ https://github.com/devicons/devicon/
       <td> ... </td>
       <td> ... </td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Tools and Workflow</b></a></td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" />
+      </td>
+      <td>
+        <img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="70"/>   
+      </td> 
+      <td> ... </td>
       <td>
         <img src="https://github.com/SKindij/SKindij/blob/main/logos/git-logo.svg" title="Git" alt="Git" width="50" />
       </td>
@@ -46,15 +53,8 @@ https://github.com/devicons/devicon/
         <img src="https://github.com/SKindij/SKindij/blob/main/logos/markdown-logo.svg" title="Markdown" alt="Markdown" width="40" />  
       </td>
       <td>
-        <img src="https://github.com/SKindij/SKindij/blob/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" />
-      </td>
-      <td>
-        <img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="70"/>   
-      </td>      
-      <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="30" />
       </td>
-      <td> ... </td>
     </tr>
     <tr>
       <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Web Development</b></a></td>
@@ -80,9 +80,23 @@ https://github.com/devicons/devicon/
   </tbody>
 </table>
 
----
 
+	
+- - -
+
+#### Here are some repositories I've created while learning about a particular topic. 
+They contain information and code examples that I've gathered along the way.
+
+* [Node.js Basics](https://github.com/SKindij/basics-of-Node.js)
+* [JavaScript Reference Guide](https://github.com/SKindij/JavaScript-reference-book)
+* [Asynchronous Programming Node.js](https://github.com/SKindij/Asynchronous-JS-Nodejs)
+* [Getting Started with React.js](https://github.com/SKindij/basics-of-React.js)
+* [Database Handbook](https://github.com/SKindij/database-reference-book)
+	
+- - -	
+	
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/serhii-kindiakov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+</div>	
+	
