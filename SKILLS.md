@@ -14,21 +14,21 @@ ___
 
 ### REACT
 
-| Fundamentals              | Hooks                   | Router                   |
-|:--------------------------|:------------------------|--------------------------|
-| 🟦 JSX syntax            | State Hook:             | 🟨 create components     |
-| 🟦 class component       | 🟩 update state         | 🟨 Switch component      |
-| 🟦 functional component  | 🟩 multiple variables   | 🟨 Redirect component    |
-| 🟦 simple component      | Effect Hook:            | 🟨 useParams hook        |
-| 🟦 Props                 | 🟦 componentDidMount    | 🟨 useLocation hook      |
-| 🟦 State                 | 🟦 componentDidUpdate   | 🟨 useRouteMatch hook    |
-| 🟦 Component Lifecycle   | 🟦 componentWillUnmount | 🟨 useHistory hook       |
-| 🟩 Handling Events       |                         | 🟨 prevent navigation    |
-| 🟩 Conditional Rendering | 🟩 useContext Hook      | 🟨 Prompt component      |
-| 🟩 Forms in React        | 🟩 useReducer Hook      | 🟨 Server-side Rendering |
-| 🟩 Styling in React      | 🟩 Custom Hooks         | 🟨 code-splitting        |
-|                           |                         | 🟨 lazy-loading          |
-|                           |                         | 🟨 animation             |
+| Fundamentals              | Hooks                   | Router                   | Redux                 |
+|:--------------------------|:------------------------|:-------------------------|:----------------------|
+| 🟦 JSX syntax            | State Hook:             | 🟨 create components     | ⬜ Store              |
+| 🟦 class component       | 🟩 update state         | 🟨 Switch component      | ⬜ Actions           |
+| 🟦 functional component  | 🟩 multiple variables   | 🟨 Redirect component    | ⬜ Reducers           |
+| 🟦 simple component      | Effect Hook:            | 🟨 useParams hook        | ⬜ Subscriptions      |
+| 🟦 Props                 | 🟦 componentDidMount    | 🟨 useLocation hook      | React-Redux:          |
+| 🟦 State                 | 🟦 componentDidUpdate   | 🟨 useRouteMatch hook    | ⬜ Provider component |
+| 🟦 Component Lifecycle   | 🟦 componentWillUnmount | 🟨 useHistory hook       | ⬜ connect function   |
+| 🟩 Handling Events       |                         | 🟨 prevent navigation    | ⬜ Middleware         |
+| 🟩 Conditional Rendering | 🟩 useContext Hook      | 🟨 Prompt component      | ⬜ DevTools           |
+| 🟩 Forms in React        | 🟩 useReducer Hook      | 🟨 Server-side Rendering | Advanced Topics:      |
+| 🟩 Styling in React      | 🟩 Custom Hooks         | 🟨 code-splitting        | ⬜ selectors          |
+|                           |                         | 🟨 lazy-loading          | ⬜ immutability       |
+|                           |                         | 🟨 animation             | ⬜ testing            |
 
 
 ### JAVASCRIPT
@@ -74,7 +74,7 @@ ___
 |                   | ⬜ flags                 |                     |                    |                        | 🟦 Array.isArray    | 
 |                   | Meta-characters:         |                     |                    |                         | Destructuring:       | 
 | 🟦 assignment    | ⬜ dot, caret, dollar    |                     |                     |                        | 🟩 syntax           | 
-|                   | ⬜ brackets |                    |                     |                        | 🟩 swapping var     |  
+|                   | ⬜ brackets              |                    |                     |                        | 🟩 swapping var     |  
 
 
 ### HTML & CSS
