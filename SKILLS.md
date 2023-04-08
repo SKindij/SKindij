@@ -8,28 +8,27 @@
 
 
 
-
-
-
 ___
 
 ## FRONTEND
 
 ### REACT
 
-| Fundamentals              | Hooks                   |
-|:--------------------------|:------------------------|
-| 🟦 JSX syntax            | State Hook:             |
-| 🟦 class component       | 🟩 update state         |
-| 🟦 functional component  | 🟩 multiple variables   |
-| 🟦 simple component      | Effect Hook:            |
-| 🟦 Props                 | 🟦 componentDidMount    |
-| 🟦 State                 | 🟦 componentDidUpdate   |
-| 🟦 Component Lifecycle   | 🟦 componentWillUnmount |
-| 🟩 Handling Events       |                         |
-| 🟩 Conditional Rendering | 🟩 useContext Hook      |
-| 🟩 Forms in React        | 🟩 useReducer Hook      |
-| 🟩 Styling in React      | 🟩 Custom Hooks         |
+| Fundamentals              | Hooks                   | Router                   |
+|:--------------------------|:------------------------|--------------------------|
+| 🟦 JSX syntax            | State Hook:             | 🟨 create components     |
+| 🟦 class component       | 🟩 update state         | 🟨 Switch component      |
+| 🟦 functional component  | 🟩 multiple variables   | 🟨 Redirect component    |
+| 🟦 simple component      | Effect Hook:            | 🟨 useParams hook        |
+| 🟦 Props                 | 🟦 componentDidMount    | 🟨 useLocation hook      |
+| 🟦 State                 | 🟦 componentDidUpdate   | 🟨 useRouteMatch hook    |
+| 🟦 Component Lifecycle   | 🟦 componentWillUnmount | 🟨 useHistory hook       |
+| 🟩 Handling Events       |                         | 🟨 prevent navigation    |
+| 🟩 Conditional Rendering | 🟩 useContext Hook      | 🟨 Prompt component      |
+| 🟩 Forms in React        | 🟩 useReducer Hook      | 🟨 Server-side Rendering |
+| 🟩 Styling in React      | 🟩 Custom Hooks         | 🟨 code-splitting        |
+|                           |                         | 🟨 lazy-loading          |
+|                           |                         | 🟨 animation             |
 
 
 ### JAVASCRIPT
