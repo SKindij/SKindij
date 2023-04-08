@@ -30,7 +30,7 @@ https://github.com/devicons/devicon/
   <tbody align="center">
     <tr>
       <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Server-side Development</b></a></td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="60" /></td>
+      <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="60" /></td>
       <td> ... </td>
       <td> ... </td>
       <td> ... </td>
@@ -40,7 +40,7 @@ https://github.com/devicons/devicon/
     <tr>
       <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Tools and Workflow</b></a></td>
       <td>
-        <img src="https://github.com/SKindij/SKindij/blob/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" />
+        <img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" />
       </td>
       <td>
         <img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="70"/>   
@@ -59,7 +59,7 @@ https://github.com/devicons/devicon/
     <tr>
       <td><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Web Development</b></a></td>
       <td>
-        <img src="https://github.com/SKindij/SKindij/blob/main/logos/react-logo.svg" title="React" alt="React" width="40" /> 
+        <img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/react-logo.svg" title="React" alt="React" width="40" /> 
       </td>
       <td>
         <img src="https://github.com/SKindij/SKindij/blob/main/logos/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="35" />  
