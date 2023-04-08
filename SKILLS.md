@@ -15,6 +15,23 @@ ___
 
 ## FRONTEND
 
+### REACT
+
+| Fundamentals              | Hooks     |
+|:--------------------------|:----------|
+| 🟦 JSX syntax            | |
+| 🟦 class component       | |
+| 🟦 functional component  | |
+| 🟦 simple component      | |
+| 🟦 Props                 | |
+| 🟦 State                 | |
+| 🟦 Component Lifecycle   | |
+| 🟩 Handling Events       | |
+| 🟩 Conditional Rendering | |
+| 🟩 Forms in React        | |
+| 🟩 Styling in React      | |
+
+
 ### JAVASCRIPT
 
 | Syntax             | Control flow          | Functions          |  Objects             | Asynchronous         | Arrays            |
