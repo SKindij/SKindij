@@ -17,19 +17,19 @@ ___
 
 ### REACT
 
-| Fundamentals              | Hooks     |
-|:--------------------------|:----------|
-| 🟦 JSX syntax            | |
-| 🟦 class component       | |
-| 🟦 functional component  | |
-| 🟦 simple component      | |
-| 🟦 Props                 | |
-| 🟦 State                 | |
-| 🟦 Component Lifecycle   | |
-| 🟩 Handling Events       | |
-| 🟩 Conditional Rendering | |
-| 🟩 Forms in React        | |
-| 🟩 Styling in React      | |
+| Fundamentals              | Hooks                   |
+|:--------------------------|:------------------------|
+| 🟦 JSX syntax            | State Hook:             |
+| 🟦 class component       | 🟩 update state         |
+| 🟦 functional component  | 🟩 multiple variables   |
+| 🟦 simple component      | Effect Hook:            |
+| 🟦 Props                 | 🟦 componentDidMount    |
+| 🟦 State                 | 🟦 componentDidUpdate   |
+| 🟦 Component Lifecycle   | 🟦 componentWillUnmount |
+| 🟩 Handling Events       |                         |
+| 🟩 Conditional Rendering | 🟩 useContext Hook      |
+| 🟩 Forms in React        | 🟩 useReducer Hook      |
+| 🟩 Styling in React      | 🟩 Custom Hooks         |
 
 
 ### JAVASCRIPT
