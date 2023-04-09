@@ -84,7 +84,7 @@ https://github.com/devicons/devicon/
 	
 - - -
 
-#### Here are some repositories I've created while learning about a particular topic. 
+#### Here are some repositories I've created while learning about a differen topics. 
 They contain information and code examples that I've gathered along the way.
 
 * [Node.js Basics](https://github.com/SKindij/basics-of-Node.js)
@@ -92,7 +92,9 @@ They contain information and code examples that I've gathered along the way.
 * [Asynchronous Programming Node.js](https://github.com/SKindij/Asynchronous-JS-Nodejs)
 * [Getting Started with React.js](https://github.com/SKindij/basics-of-React.js)
 * [Database Handbook](https://github.com/SKindij/database-reference-book)
-	
+
+&emsp;_I hope these resources will be helpful for people who are looking to learn about a particular topic from scratch, or for those who want to refresh or improve their skills and knowledge on a certain subject._
+
 - - -	
 	
 <div id="badges" align="center">
