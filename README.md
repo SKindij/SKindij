@@ -84,7 +84,7 @@ https://github.com/devicons/devicon/
 	
 - - -
 
-#### Here are some repositories I've created while learning about a differen topics. 
+#### Here are some repositories I've created while learning about a different topics. 
 They contain information and code examples that I've gathered along the way.
 
 * [Node.js Basics](https://github.com/SKindij/basics-of-Node.js)
