@@ -17,18 +17,19 @@ ___
 | Fundamentals              | Hooks                   | Router                   | Redux                 |
 |:--------------------------|:------------------------|:-------------------------|:----------------------|
 | 🟦 JSX syntax            | State Hook:             | 🟨 create components     | ⬜ Store              |
-| 🟦 class component       | 🟩 update state         | 🟨 Switch component      | ⬜ Actions           |
-| 🟦 functional component  | 🟩 multiple variables   | 🟨 Redirect component    | ⬜ Reducers           |
+| 🟦 class component       | 🟦 update state         | 🟨 Switch component      | ⬜ Actions           |
+| 🟦 functional component  | 🟦 multiple variables   | 🟨 Redirect component    | ⬜ Reducers           |
 | 🟦 simple component      | Effect Hook:            | 🟨 useParams hook        | ⬜ Subscriptions      |
-| 🟦 Props                 | 🟦 componentDidMount    | 🟨 useLocation hook      | React-Redux:          |
-| 🟦 State                 | 🟦 componentDidUpdate   | 🟨 useRouteMatch hook    | ⬜ Provider component |
-| 🟦 Component Lifecycle   | 🟦 componentWillUnmount | 🟨 useHistory hook       | ⬜ connect function   |
-| 🟦 Handling Events       |                         | 🟨 prevent navigation    | ⬜ Middleware         |
-| 🟦 Conditional Rendering | 🟩 useContext Hook      | 🟨 Prompt component      | ⬜ DevTools           |
-| 🟦 Forms in React        | 🟩 useReducer Hook      | 🟨 Server-side Rendering | Advanced Topics:      |
-| 🟦 Styling in React      | 🟩 Custom Hooks         | 🟨 code-splitting        | ⬜ selectors          |
-|                           |                         | 🟨 lazy-loading          | ⬜ immutability       |
-|                           |                         | 🟨 animation             | ⬜ testing            |
+| 🟦 Props                 | 🟦 use to fetch data    | 🟨 useLocation hook      | React-Redux:          |
+| 🟦 State                 | 🟩 handle side effects  | 🟨 useRouteMatch hook    | ⬜ Provider component |
+| Component Lifecycle:      |                         | 🟨 useHistory hook       | ⬜ connect function   |
+| 🟦 componentDidMount     | 🟩 useContext Hook      | 🟨 prevent navigation    | ⬜ Middleware         |
+| 🟦 componentDidUpdate    |                         | 🟨 Prompt component      | ⬜ DevTools           |
+| 🟦 componentWillUnmount  | 🟩 useReducer Hook      | 🟨 Server-side Rendering | Advanced Topics:      |
+| 🟦 Handling Events       |                         | 🟨 code-splitting        | ⬜ selectors          |
+| 🟦 Conditional Rendering |                         | 🟨 lazy-loading          | ⬜ immutability       |
+| 🟦 Forms in React        | 🟩 Custom Hooks        | 🟨 animation             | ⬜ testing            |
+| 🟦 Styling in React      |                         |                          |                        |
 
 
 ### JAVASCRIPT
