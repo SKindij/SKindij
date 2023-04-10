@@ -25,8 +25,8 @@ ___
 | 🟦 Component Lifecycle   | 🟦 componentWillUnmount | 🟨 useHistory hook       | ⬜ connect function   |
 | 🟦 Handling Events       |                         | 🟨 prevent navigation    | ⬜ Middleware         |
 | 🟦 Conditional Rendering | 🟩 useContext Hook      | 🟨 Prompt component      | ⬜ DevTools           |
-| 🟩 Forms in React        | 🟩 useReducer Hook      | 🟨 Server-side Rendering | Advanced Topics:      |
-| 🟩 Styling in React      | 🟩 Custom Hooks         | 🟨 code-splitting        | ⬜ selectors          |
+| 🟦 Forms in React        | 🟩 useReducer Hook      | 🟨 Server-side Rendering | Advanced Topics:      |
+| 🟦 Styling in React      | 🟩 Custom Hooks         | 🟨 code-splitting        | ⬜ selectors          |
 |                           |                         | 🟨 lazy-loading          | ⬜ immutability       |
 |                           |                         | 🟨 animation             | ⬜ testing            |
 
