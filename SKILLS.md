@@ -34,48 +34,46 @@ ___
 
 ### JAVASCRIPT
 
-| Syntax             | Control flow          | Functions          |  Objects             | Asynchronous         | Arrays            |
-|:-------------------|:----------------------|:-------------------|:---------------------|:---------------------|:-------------------|
-|  Variables:        | Conditionals:          | Basics:            | Basics:              | Event loop:         | Basics:            |
-| 🟦 declaration    | 🟦 if/else            | 🟦 declaration    | 🟦 obj literals      | 🟦 call stack       | 🟦 declaration     |
-| 🟦 assignment     | 🟦 switch             | 🟦 expression     | 🟩 constructor func  | 🟦 microtasks       | 🟦 initialization  |
-| 🟦 var            | 🟦 ternary operator   | 🟦 arrow func     | 🟩 classes           | 🟦 macrotasks       | 🟦 accessing       |
-| 🟦 let & const    | Loops:                | 🟦 anonymous func  | 🟦 this              | Event loop:         |Methods not-ch:     |
-| 🟦 naming         | 🟦 for                | Parameters:        | 🟩 prototype chain   | 🟦 process.nextTick | 🟦 .find          |
-| Data types:       | 🟦 while              | 🟦 positional      | 🟩 destructuring     | 🟦 Promise.then     | 🟦 .findIndex     |
-| 🟦 strings        | 🟦 do..while          | 🟦 default         | Properties:          | 🟦 async function   | 🟦 .indexOf       |  
-| 🟦 numbers        | Controls:             | 🟦 rest            | 🟩 access            | 🟦 setTimeout(c, 0) | 🟦 .lastIndexOf   | 
-| 🟦 booleans       | 🟩 break              | Arguments:         | 🟩 assignment        | 🟦 setImmediate     | 🟦 .includes      |  
-| 🟦 null           | 🟩 continue           | 🟦 arg object      | 🟩 descriptors      | 🟦 setTimeout(c, n) | 🟦 .every          | 
-| 🟦 undefined      | 🟩 return             | 🟦 destructuring   | 🟩 computed prop    | 🟦  setInterval     | 🟦 .some          |   
-| 🟦 objects        | Exception handling:   | 🟦 spreading arg   | Methods:             | Promises:           | 🟦 .concat        |   
-| 🟦 symbols        | 🟦 try..catch         | Return:            | 🟩 definitions       | 🟦 syntax           | 🟦 .join          |   
-| 🟦 BigInt         | 🟩 throw              | 🟦 statement       | 🟩 this keyword     | 🟦 chaining         | 🟦 .filter        |
-|                   | 🟦 finally             | 🟦 values          | 🟩 chaining          | 🟨 promise.all      | 🟩 .flat         |    
-| Variable scope:   |                        | 🟩 implicit         | Inheritance:         | 🟦 error handling  | 🟩 .flatMap       |  
-| 🟦 global        |                         | Recursion:          | 🟩 patterns          |  Async/await:        | 🟩 .forEach       |  
-| 🟦 local         | Regular Expressions     | 🟩 recursive func   | 🟩 obj composition   | 🟩 syntax          | 🟩 .map           | 
-| 🟦 function      |                         | 🟩 base cases       | Encapsulation:       | 🟩 error handling   | 🟩 .reduce        |  
-| 🟦 block         |  Basics:                | Closure:            | 🟩 getters & setters | 🟨 async generators  | 🟩 .reduceRight   | 
-|                   | ⬜ regExp syntax       | 🟩 lexical scope    | 🟩 private variables |                    | 🟩 .toString       | 
-| Additionally:     | ⬜  literals           | 🟩 closure func     | 🟩 closure func      | Browser APIs:      | 🟩 .toLocaleString |
-| 🟦 hoisting      | ⬜  constructor        | Callbacks:            | Polymorphism:         | 🟦 DOM               | Methods ch:   |  
-| 🟦 Lexical scope | RegExp methods:         | 🟦 higher-order func | 🟩 overriding        | 🟦 events             | 🟦 .push       |   
-|                  | ⬜ test()               | 🟦 callback func    | 🟩 overloading       | 🟦 XMLHttpRequest     | 🟦 .unshift    |  
-| Operators:       | ⬜ match()              |                      | 🟩 dynamic dispatch   | 🟦 fetch API         | 🟦 .pop        |    
-| 🟦 arithmetic    | ⬜ search()             |                     |                     | 🟨 Web Workers          | 🟦 .shift      |      
-| 🟦 comparison    | ⬜ replace()            |                     |                     |                         | 🟦 .sort        |    
-| 🟦 logical       | ⬜ split()              |                     |                     |                         | 🟦 .reverse     |  
-| ⬜ bitwise       | ⬜ exec()               |                      |                     |                        | 🟩 .fill           |  
-|                  | RegExp patterns:         |                      |                   |                          | 🟩 .copyWithin     |   
-|  Literals:       | ⬜ char classes          |                     |                   |                          | Other methods:      |   
-| 🟦 string       | ⬜ quantifiers           |                     |                    |                         | 🟩 .split          |   
-| 🟦 numeric      | ⬜ alternation           |                     |                    |                         | 🟩 .splice         |
-| 🟦 boolean      | ⬜ grouping              |                     |                    |                        | 🟩 .slice           |   
-| 🟦 object       | ⬜ flags                 |                     |                    |                        | 🟦 Array.isArray    | 
-|                  | Meta-characters:         |                     |                    |                         | Destructuring:       | 
-|                  | ⬜ dot, caret, dollar    |                     |                     |                        | 🟩 syntax           | 
-|                  | ⬜ brackets              |                    |                     |                        | 🟩 swapping var     |  
+| Syntax             | Control flow          | Arrays             | Functions          |  Objects             | Asynchronous         |
+|:-------------------|:----------------------|:-------------------|:-------------------|:---------------------|:---------------------|
+|  Variables:        | Conditionals:         | 🟦 initialization | Basics:             | Basics:             | Event loop:          |
+| 🟦 declaration    | 🟦 if/else            | 🟦 accessing      | 🟦 declaration     | 🟦 obj literals      | 🟦 call stack       |
+| 🟦 assignment     | 🟦 switch             | not change initial | 🟦 expression      | 🟩 constructor func  | 🟦 microtasks       |
+| 🟦 var            | 🟦 ternary operator   | 🟦 .indexOf       | 🟦 arrow func      | 🟩 classes           | 🟦 macrotasks       |
+| 🟦 let & const    | Loops:                | 🟦 .lastIndexOf    | 🟦 anonymous func  | 🟦 this              | Event loop:         |
+| 🟦 naming         | 🟦 for                | 🟦 .find          | Parameters:         | 🟩 prototype chain   | 🟦 process.nextTick |
+| Data types:       | 🟦 while              | 🟦 .findIndex      | 🟦 positional      | 🟩 destructuring     | 🟦 Promise.then     |
+| 🟦 strings        | 🟦 do..while          | 🟦 .includes      | 🟦 default          | Properties:          | 🟦 async function   |
+| 🟦 numbers        | Controls:             | 🟦 .some           | 🟦 rest            | 🟩 access            | 🟦 setTimeout(c, 0) | 
+| 🟦 booleans       | 🟩 break              | 🟦 .every         | Arguments:          | 🟩 assignment        | 🟦 setImmediate     | 
+| 🟦 null           | 🟩 continue           | 🟦 .toString      | 🟦 arg object       | 🟩 descriptors      | 🟦 setTimeout(c, n) |
+| 🟦 undefined      | 🟩 return             | 🟦 .join          | 🟦 destructuring    | 🟩 computed prop    | 🟦  setInterval     |  
+| 🟦 objects        | Exception handling:   | 🟦 .concat         | 🟦 spreading arg    | Methods:             | Promises:           |  
+| 🟦 symbols        | 🟦 try..catch         | 🟨 .toLocaleString | Return:             | 🟩 definitions       | 🟦 syntax           |  
+| 🟦 BigInt         | 🟩 throw              | 🟦 .map            | 🟦 statement        | 🟩 this keyword     | 🟦 chaining         |
+|                   | 🟦 finally             | 🟦 .reduce        | 🟦 values           | 🟩 chaining          | 🟨 promise.all      |   
+| Variable scope:   |                        | 🟨 .reduceRight    | 🟩 implicit         | Inheritance:         | 🟦 error handling  | 
+| 🟦 global        |                         | 🟦 .filter        | Recursion:           | 🟩 patterns          |  Async/await:        |  
+| 🟦 local         | Regular Expressions     | 🟦 .slice         | 🟩 recursive func   | 🟩 obj composition   | 🟩 syntax          | 
+| 🟦 function      | ⬜ regExp syntax       | 🟦 .flat          | 🟩 base cases       | Encapsulation:       | 🟩 error handling   | 
+| 🟦 block         | ⬜  literals           | ⬜ .flatMap       | Closure:             | 🟩 getters & setters | 🟨 async generators | 
+|                   | ⬜  constructor        | change initial arr | 🟩 lexical scope    | 🟩 private variables |                    |
+| Additionally:     | RegExp methods:        | 🟦 .push          | 🟩 closure func      | 🟩 closure func      | Browser APIs:      |
+| 🟦 hoisting      | ⬜ test()              | 🟦 .unshift        | Callbacks:           | Polymorphism:        | 🟦 DOM              | 
+| 🟦 Lexical scope | ⬜ match()             | 🟦 .pop           | 🟦 higher-order func | 🟩 overriding        | 🟦 events          |  
+|                  | ⬜ search()            | 🟦 .shift         | 🟦 callback func     | 🟩 overloading       | 🟦 XMLHttpRequest   | 
+| Operators:       | ⬜ replace()           | 🟦 .splice        |                      | 🟩 dynamic dispatch  | 🟦 fetch API        | 
+| 🟦 arithmetic    | ⬜ split()             | ⬜ .copyWithin    |                      |                     | 🟨 Web Workers        |    
+| 🟦 comparison    | ⬜ exec()              | 🟦 .fill          |                      |                     |                        |  
+| 🟦 logical       | RegExp patterns:       | 🟦 .reverse       |                      |                     |                        |
+| ⬜ bitwise       | ⬜ char classes        | 🟦 .sort          |                      |                     |                        |
+|                  | ⬜ quantifiers         | Other methods:    |                      |                     |                        | 
+|  Literals:       | ⬜ alternation         | 🟦 Array.isArray |                      |                     |                        |  
+| 🟦 string       | ⬜ grouping            | 🟦 .forEach       |                      |                     |                        |  
+| 🟦 numeric      | ⬜ flags               | Destructuring:    |                      |                     |                        | 
+| 🟦 boolean      | Meta-characters:        | 🟦 syntax         |                      |                     |                        |  
+| 🟦 object       | ⬜ dot, caret, dollar  | 🟦 swapping var   |                      |                     |                        |
+|                  | ⬜ brackets            |                   |                      |                     |                        |
 
 
 ### HTML & CSS
