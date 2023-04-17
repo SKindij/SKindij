@@ -66,13 +66,13 @@ ___
 | 🟦 arithmetic    | ⬜ search()             |                     |                     | 🟨 Web Workers          | 🟦 .shift      |      
 | 🟦 comparison    | ⬜ replace()            |                     |                     |                         | 🟦 .sort        |    
 | 🟦 logical       | ⬜ split()              |                     |                     |                         | 🟦 .reverse     |  
-|                  | ⬜ exec()               |                      |                     |                        | 🟩 .fill           |  
-| Literals:        | RegExp patterns:         |                      |                   |                          | 🟩 .copyWithin     |   
-| 🟦 string        | ⬜ char classes          |                     |                   |                          | Other methods:      |   
-| 🟦 numeric       | ⬜ quantifiers           |                     |                    |                         | 🟩 .split          |   
-| 🟦 boolean       | ⬜ alternation           |                     |                    |                         | 🟩 .splice         |
-| 🟦 object        | ⬜ grouping              |                     |                    |                        | 🟩 .slice           |   
-|                  | ⬜ flags                 |                     |                    |                        | 🟦 Array.isArray    | 
+| ⬜ bitwise       | ⬜ exec()               |                      |                     |                        | 🟩 .fill           |  
+|                  | RegExp patterns:         |                      |                   |                          | 🟩 .copyWithin     |   
+|  Literals:       | ⬜ char classes          |                     |                   |                          | Other methods:      |   
+| 🟦 string       | ⬜ quantifiers           |                     |                    |                         | 🟩 .split          |   
+| 🟦 numeric      | ⬜ alternation           |                     |                    |                         | 🟩 .splice         |
+| 🟦 boolean      | ⬜ grouping              |                     |                    |                        | 🟩 .slice           |   
+| 🟦 object       | ⬜ flags                 |                     |                    |                        | 🟦 Array.isArray    | 
 |                  | Meta-characters:         |                     |                    |                         | Destructuring:       | 
 |                  | ⬜ dot, caret, dollar    |                     |                     |                        | 🟩 syntax           | 
 |                  | ⬜ brackets              |                    |                     |                        | 🟩 swapping var     |  
