@@ -44,18 +44,18 @@ ___
 | 🟦 naming         | 🟦 for                | 🟦 .find          | Parameters:         | 🟦 prototype chain   | 🟦 process.nextTick |
 | Data types:       | 🟦 while              | 🟦 .findIndex      | 🟦 positional      | 🟦 destructuring     | 🟦 Promise.then     |
 | 🟦 strings        | 🟦 do..while          | 🟦 .includes      | 🟦 default          | Properties:          | 🟦 async function   |
-| 🟦 numbers        | Controls:             | 🟦 .some           | 🟦 rest            | 🟩 access            | 🟦 setTimeout(c, 0) | 
-| 🟦 booleans       | 🟩 break              | 🟦 .every         | Arguments:          | 🟩 assignment        | 🟦 setImmediate     | 
-| 🟦 null           | 🟩 continue           | 🟦 .toString      | 🟦 arg object       | 🟩 descriptors      | 🟦 setTimeout(c, n) |
-| 🟦 undefined      | 🟩 return             | 🟦 .join          | 🟦 destructuring    | 🟩 computed prop    | 🟦  setInterval     |  
+| 🟦 numbers        | Controls:             | 🟦 .some           | 🟦 rest            | 🟦 access            | 🟦 setTimeout(c, 0) | 
+| 🟦 booleans       | 🟩 break              | 🟦 .every         | Arguments:          | 🟦 assignment        | 🟦 setImmediate     | 
+| 🟦 null           | 🟩 continue           | 🟦 .toString      | 🟦 arg object       | 🟦 descriptors      | 🟦 setTimeout(c, n) |
+| 🟦 undefined      | 🟩 return             | 🟦 .join          | 🟦 destructuring    | 🟦 computed prop    | 🟦  setInterval     |  
 | 🟦 objects        | Exception handling:   | 🟦 .concat         | 🟦 spreading arg    | Methods:             | Promises:           |  
-| 🟦 symbols        | 🟦 try..catch         | 🟨 .toLocaleString | Return:             | 🟩 definitions       | 🟦 syntax           |  
-| 🟦 BigInt         | 🟩 throw              | 🟦 .map            | 🟦 statement        | 🟩 this keyword     | 🟦 chaining         |
-|                   | 🟦 finally             | 🟦 .reduce        | 🟦 values           | 🟩 chaining          | 🟨 promise.all      |   
+| 🟦 symbols        | 🟦 try..catch         | 🟨 .toLocaleString | Return:             | 🟦 definitions       | 🟦 syntax           |  
+| 🟦 BigInt         | 🟩 throw              | 🟦 .map            | 🟦 statement        | 🟦 this keyword     | 🟦 chaining         |
+|                   | 🟦 finally             | 🟦 .reduce        | 🟦 values           | 🟦 chaining          | 🟨 promise.all      |   
 | Variable scope:   |                        | 🟨 .reduceRight    | 🟩 implicit         |                     | 🟦 error handling  | 
 | 🟦 global        |                         | 🟦 .filter        | Recursion:           | Collection:         |  Async/await:        |  
-| 🟦 local         | Regular Expressions     | 🟦 .slice         | 🟩 recursive func   | 🟩 Map              | 🟩 syntax          | 
-| 🟦 function      | ⬜ regExp syntax       | 🟦 .flat          | 🟩 base cases       | 🟩 Set               | 🟩 error handling   | 
+| 🟦 local         | Regular Expressions     | 🟦 .slice         | 🟩 recursive func   | 🟦 Map              | 🟩 syntax          | 
+| 🟦 function      | ⬜ regExp syntax       | 🟦 .flat          | 🟩 base cases       | 🟦 Set               | 🟩 error handling   | 
 | 🟦 block         | ⬜  literals           | ⬜ .flatMap       | Closure:             |                     | 🟨 async generators | 
 |                   | ⬜  constructor        | change initial arr | 🟩 lexical scope    |                     |                    |
 | Additionally:     | RegExp methods:        | 🟦 .push          | 🟩 closure func      |                     | Browser APIs:      |
