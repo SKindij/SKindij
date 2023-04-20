@@ -58,16 +58,16 @@ ___
 | 🟦 function      | ⬜ regExp syntax       | 🟦 .flat          | 🟩 base cases       | 🟦 Set               | 🟩 error handling   | 
 | 🟦 block         | ⬜  literals           | ⬜ .flatMap       | Closure:             |                     | 🟨 async generators | 
 |                   | ⬜  constructor        | change initial arr | 🟩 lexical scope    |                     |                    |
-| Additionally:     | RegExp methods:        | 🟦 .push          | 🟩 closure func      |                     | Browser APIs:      |
-| 🟦 hoisting      | ⬜ test()              | 🟦 .unshift        | Callbacks:           | OOP in JS           | 🟦 DOM              | 
+| Additionally:     | RegExp methods:        | 🟦 .push          | 🟩 closure func      | OOP in JS           | Browser APIs:      |
+| 🟦 hoisting      | ⬜ test()              | 🟦 .unshift        | Callbacks:           | 🟦 basics          | 🟦 DOM              | 
 | 🟦 Lexical scope | ⬜ match()             | 🟦 .pop           | 🟦 higher-order func | Inheritance:         | 🟦 events          |  
-|                  | ⬜ search()            | 🟦 .shift         | 🟦 callback func     | 🟩 patterns          | 🟦 XMLHttpRequest   | 
-| Operators:       | ⬜ replace()           | 🟦 .splice        |                      | 🟩 obj composition   | 🟦 fetch API        | 
+|                  | ⬜ search()            | 🟦 .shift         | 🟦 callback func     | 🟦 patterns          | 🟦 XMLHttpRequest   | 
+| Operators:       | ⬜ replace()           | 🟦 .splice        |                      | 🟦 obj composition   | 🟦 fetch API        | 
 | 🟦 arithmetic    | ⬜ split()             | ⬜ .copyWithin    |                      |                      | 🟨 Web Workers        |    
 | 🟦 comparison    | ⬜ exec()              | 🟦 .fill          |                      | Encapsulation:       |                        |  
-| 🟦 logical       | RegExp patterns:       | 🟦 .reverse       |                      | 🟩 getters & setters |                        |
-| ⬜ bitwise       | ⬜ char classes        | 🟦 .sort          |                      | 🟩 private variables |                        |
-|                  | ⬜ quantifiers         | Other methods:    |                      | 🟩 closure func       |                        | 
+| 🟦 logical       | RegExp patterns:       | 🟦 .reverse       |                      | 🟦 getters & setters |                        |
+| ⬜ bitwise       | ⬜ char classes        | 🟦 .sort          |                      | 🟦 private variables |                        |
+|                  | ⬜ quantifiers         | Other methods:    |                      | 🟦 closure func       |                        | 
 |  Literals:       | ⬜ alternation         | 🟦 Array.isArray |                      |                        |                        |  
 | 🟦 string       | ⬜ grouping            | 🟦 .forEach       |                      | Polymorphism:         |                        |  
 | 🟦 numeric      | ⬜ flags               | Destructuring:    |                      | 🟩 overriding         |                        | 
