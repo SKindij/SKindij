@@ -70,9 +70,9 @@ ___
 |                  | ⬜ quantifiers         | Other methods:    |                      | 🟦 closure func       |                        | 
 |  Literals:       | ⬜ alternation         | 🟦 Array.isArray |                      |                        |                        |  
 | 🟦 string       | ⬜ grouping            | 🟦 .forEach       |                      | Polymorphism:         |                        |  
-| 🟦 numeric      | ⬜ flags               | Destructuring:    |                      | 🟩 overriding         |                        | 
-| 🟦 boolean      | Meta-characters:        | 🟦 syntax         |                      | 🟩 overloading       |                        |  
-| 🟦 object       | ⬜ dot, caret, dollar  | 🟦 swapping var   |                      | 🟩 dynamic dispatch   |                        |
+| 🟦 numeric      | ⬜ flags               | Destructuring:    |                      | 🟦 overriding         |                        | 
+| 🟦 boolean      | Meta-characters:        | 🟦 syntax         |                      | 🟦 overloading       |                        |  
+| 🟦 object       | ⬜ dot, caret, dollar  | 🟦 swapping var   |                      | 🟦 dynamic dispatch   |                        |
 |                  | ⬜ brackets            |                   |                      |                       |                        |
 
 
