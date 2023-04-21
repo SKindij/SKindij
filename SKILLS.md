@@ -45,12 +45,12 @@ ___
 | Data types:       | 🟦 while              | 🟦 .findIndex      | 🟦 positional      | 🟦 destructuring     | 🟦 Promise.then     |
 | 🟦 strings        | 🟦 do..while          | 🟦 .includes      | 🟦 default          | Properties:          | 🟦 async function   |
 | 🟦 numbers        | Controls:             | 🟦 .some           | 🟦 rest            | 🟦 access            | 🟦 setTimeout(c, 0) | 
-| 🟦 booleans       | 🟩 break              | 🟦 .every         | Arguments:          | 🟦 assignment        | 🟦 setImmediate     | 
-| 🟦 null           | 🟩 continue           | 🟦 .toString      | 🟦 arg object       | 🟦 descriptors      | 🟦 setTimeout(c, n) |
-| 🟦 undefined      | 🟩 return             | 🟦 .join          | 🟦 destructuring    | 🟦 computed prop    | 🟦  setInterval     |  
+| 🟦 booleans       | 🟦 break              | 🟦 .every         | Arguments:          | 🟦 assignment        | 🟦 setImmediate     | 
+| 🟦 null           | 🟦 continue           | 🟦 .toString      | 🟦 arg object       | 🟦 descriptors      | 🟦 setTimeout(c, n) |
+| 🟦 undefined      | 🟦 return             | 🟦 .join          | 🟦 destructuring    | 🟦 computed prop    | 🟦  setInterval     |  
 | 🟦 objects        | Exception handling:   | 🟦 .concat         | 🟦 spreading arg    | Methods:             | Promises:           |  
 | 🟦 symbols        | 🟦 try..catch         | 🟨 .toLocaleString | Return:             | 🟦 definitions       | 🟦 syntax           |  
-| 🟦 BigInt         | 🟩 throw              | 🟦 .map            | 🟦 statement        | 🟦 this keyword     | 🟦 chaining         |
+| 🟦 BigInt         | 🟦 throw              | 🟦 .map            | 🟦 statement        | 🟦 this keyword     | 🟦 chaining         |
 |                   | 🟦 finally             | 🟦 .reduce        | 🟦 values           | 🟦 chaining          | 🟨 promise.all      |   
 | Variable scope:   |                        | 🟨 .reduceRight    | 🟩 implicit         |                     | 🟦 error handling  | 
 | 🟦 global        |                         | 🟦 .filter        | Recursion:           | Collection:         |  Async/await:        |  
