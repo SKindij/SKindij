@@ -51,14 +51,14 @@ ___
 | 🟦 objects        | Exception handling:   | 🟦 .concat         | 🟦 spreading arg    | Methods:             | Promises:           |  
 | 🟦 symbols        | 🟦 try..catch         | 🟨 .toLocaleString | Return:             | 🟦 definitions       | 🟦 syntax           |  
 | 🟦 BigInt         | 🟦 throw              | 🟦 .map            | 🟦 statement        | 🟦 this keyword     | 🟦 chaining         |
-|                   | 🟦 finally             | 🟦 .reduce        | 🟦 values           | 🟦 chaining          | 🟨 promise.all      |   
-| Variable scope:   |                        | 🟨 .reduceRight    | 🟩 implicit         |                     | 🟦 error handling  | 
+|                   | 🟦 finally             | 🟦 .reduce        | 🟦 values           | 🟦 chaining          | 🟩 promise.all      |   
+| Variable scope:   |                        | 🟨 .reduceRight    | 🟦 implicit         |                     | 🟦 error handling  | 
 | 🟦 global        |                         | 🟦 .filter        | Recursion:           | Collection:         |  Async/await:        |  
-| 🟦 local         | Regular Expressions     | 🟦 .slice         | 🟩 recursive func   | 🟦 Map              | 🟩 syntax          | 
-| 🟦 function      | ⬜ regExp syntax       | 🟦 .flat          | 🟩 base cases       | 🟦 Set               | 🟩 error handling   | 
-| 🟦 block         | ⬜  literals           | ⬜ .flatMap       | Closure:             |                     | 🟨 async generators | 
-|                   | ⬜  constructor        | change initial arr | 🟩 lexical scope    |                     |                    |
-| Additionally:     | RegExp methods:        | 🟦 .push          | 🟩 closure func      | OOP in JS           | Browser APIs:      |
+| 🟦 local         | Regular Expressions     | 🟦 .slice         | 🟦 recursive func   | 🟦 Map              | 🟦 syntax          | 
+| 🟦 function      | ⬜ regExp syntax       | 🟦 .flat          | 🟦 base cases       | 🟦 Set               | 🟦 error handling   | 
+| 🟦 block         | ⬜  literals           | ⬜ .flatMap       | Closure:             |                     | 🟩 async generators | 
+|                   | ⬜  constructor        | change initial arr | 🟦 lexical scope    |                     |                    |
+| Additionally:     | RegExp methods:        | 🟦 .push          | 🟦 closure func      | OOP in JS           | Browser APIs:      |
 | 🟦 hoisting      | ⬜ test()              | 🟦 .unshift        | Callbacks:           | 🟦 basics          | 🟦 DOM              | 
 | 🟦 Lexical scope | ⬜ match()             | 🟦 .pop           | 🟦 higher-order func | Inheritance:         | 🟦 events          |  
 |                  | ⬜ search()            | 🟦 .shift         | 🟦 callback func     | 🟦 patterns          | 🟦 XMLHttpRequest   | 
