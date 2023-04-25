@@ -59,21 +59,21 @@ ___
 | 🟦 block         | ⬜  literals           | ⬜ .flatMap       | Closure:             |                     | 🟩 async generators | 
 |                   | ⬜  constructor        | change initial arr | 🟦 lexical scope    |                     |                    |
 | Additionally:     | RegExp methods:        | 🟦 .push          | 🟦 closure func      | OOP in JS           | Browser APIs:      |
-| 🟦 hoisting      | ⬜ test()              | 🟦 .unshift        | Callbacks:           | 🟦 basics          | 🟦 DOM              | 
-| 🟦 Lexical scope | ⬜ match()             | 🟦 .pop           | 🟦 higher-order func | Inheritance:         | 🟦 events          |  
-|                  | ⬜ search()            | 🟦 .shift         | 🟦 callback func     | 🟦 patterns          | 🟦 XMLHttpRequest   | 
-| Operators:       | ⬜ replace()           | 🟦 .splice        |                      | 🟦 obj composition   | 🟦 fetch API        | 
-| 🟦 arithmetic    | ⬜ split()             | ⬜ .copyWithin    |                      |                      | 🟨 Web Workers        |    
-| 🟦 comparison    | ⬜ exec()              | 🟦 .fill          |                      | Encapsulation:       |                        |  
-| 🟦 logical       | RegExp patterns:       | 🟦 .reverse       |                      | 🟦 getters & setters |                        |
-| ⬜ bitwise       | ⬜ char classes        | 🟦 .sort          |                      | 🟦 private variables |                        |
-|                  | ⬜ quantifiers         | Other methods:    |                      | 🟦 closure func       |                        | 
-|  Literals:       | ⬜ alternation         | 🟦 Array.isArray |                      |                        |                        |  
-| 🟦 string       | ⬜ grouping            | 🟦 .forEach       |                      | Polymorphism:         |                        |  
-| 🟦 numeric      | ⬜ flags               | Destructuring:    |                      | 🟦 overriding         |                        | 
-| 🟦 boolean      | Meta-characters:        | 🟦 syntax         |                      | 🟦 overloading       |                        |  
-| 🟦 object       | ⬜ dot, caret, dollar  | 🟦 swapping var   |                      | 🟦 dynamic dispatch   |                        |
-|                  | ⬜ brackets            |                   |                      |                       |                        |
+| 🟦 hoisting      | ⬜ test()              | 🟦 .unshift        | Callbacks:           | 🟦 basics          | 🟦 DOM-BOM          | 
+| 🟦 Lexical scope | ⬜ match()             | 🟦 .pop           | 🟦 higher-order func | Inheritance:         | 🟦 manipulation    |  
+|                  | ⬜ search()            | 🟦 .shift         | 🟦 callback func     | 🟦 patterns          | 🟦 Web Storage     | 
+| Operators:       | ⬜ replace()           | 🟦 .splice        |                      | 🟦 obj composition   | 🟦 events          | 
+| 🟦 arithmetic    | ⬜ split()             | ⬜ .copyWithin    |                      |                      | Web API:            |    
+| 🟦 comparison    | ⬜ exec()              | 🟦 .fill          |                      | Encapsulation:       | 🟦 XMLHttpRequest  |  
+| 🟦 logical       | RegExp patterns:       | 🟦 .reverse       |                      | 🟦 getters & setters | 🟦 fetch API       |
+| ⬜ bitwise       | ⬜ char classes        | 🟦 .sort          |                      | 🟦 private variables | 🟨 Web Workers     |
+|                  | ⬜ quantifiers         | Other methods:    |                      | 🟦 closure func       |                     | 
+|  Literals:       | ⬜ alternation         | 🟦 Array.isArray |                      |                        |                     |  
+| 🟦 string       | ⬜ grouping            | 🟦 .forEach       |                      | Polymorphism:         |                     |  
+| 🟦 numeric      | ⬜ flags               | Destructuring:    |                      | 🟦 overriding         |                     | 
+| 🟦 boolean      | Meta-characters:        | 🟦 syntax         |                      | 🟦 overloading       |                     |  
+| 🟦 object       | ⬜ dot, caret, dollar  | 🟦 swapping var   |                      | 🟦 dynamic dispatch   |                     |
+|                  | ⬜ brackets            |                   |                      |                       |                     |
 
 
 ### HTML & CSS
