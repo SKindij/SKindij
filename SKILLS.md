@@ -48,32 +48,32 @@ ___
 | 🟦 booleans       | 🟦 break              | 🟦 .every         | Arguments:          | 🟦 assignment        | 🟦 setImmediate     | 
 | 🟦 null           | 🟦 continue           | 🟦 .toString      | 🟦 arg object       | 🟦 descriptors      | 🟦 setTimeout(c, n) |
 | 🟦 undefined      | 🟦 return             | 🟦 .join          | 🟦 destructuring    | 🟦 computed prop    | 🟦  setInterval     |  
-| 🟦 objects        | Exception handling:   | 🟦 .concat         | 🟦 spreading arg    | Methods:             | Promises:           |  
-| 🟦 symbols        | 🟦 try..catch         | 🟨 .toLocaleString | Return:             | 🟦 definitions       | 🟦 syntax           |  
-| 🟦 BigInt         | 🟦 throw              | 🟦 .map            | 🟦 statement        | 🟦 this keyword     | 🟦 chaining         |
-|                   | 🟦 finally             | 🟦 .reduce        | 🟦 values           | 🟦 chaining          | 🟩 promise.all      |   
-| Variable scope:   |                        | 🟨 .reduceRight    | 🟦 implicit         |                     | 🟦 error handling  | 
-| 🟦 global        |                         | 🟦 .filter        | Recursion:           | Collection:         |  Async/await:        |  
-| 🟦 local         | Regular Expressions     | 🟦 .slice         | 🟦 recursive func   | 🟦 Map              | 🟦 syntax          | 
-| 🟦 function      | ⬜ regExp syntax       | 🟦 .flat          | 🟦 base cases       | 🟦 Set               | 🟦 error handling   | 
-| 🟦 block         | ⬜  literals           | ⬜ .flatMap       | Closure:             |                     | 🟩 async generators | 
-|                   | ⬜  constructor        | change initial arr | 🟦 lexical scope    |                     |                    |
-| Additionally:     | RegExp methods:        | 🟦 .push          | 🟦 closure func      | OOP in JS           | Browser APIs:      |
-| 🟦 hoisting      | ⬜ test()              | 🟦 .unshift        | Callbacks:           | 🟦 basics          | 🟦 DOM-BOM          | 
-| 🟦 Lexical scope | ⬜ match()             | 🟦 .pop           | 🟦 higher-order func | Inheritance:         | 🟦 manipulation    |  
-|                  | ⬜ search()            | 🟦 .shift         | 🟦 callback func     | 🟦 patterns          | 🟦 Web Storage     | 
-| Operators:       | ⬜ replace()           | 🟦 .splice        |                      | 🟦 obj composition   | 🟦 events          | 
-| 🟦 arithmetic    | ⬜ split()             | ⬜ .copyWithin    |                      |                      | Web API:            |    
-| 🟦 comparison    | ⬜ exec()              | 🟦 .fill          |                      | Encapsulation:       | 🟦 XMLHttpRequest  |  
-| 🟦 logical       | RegExp patterns:       | 🟦 .reverse       |                      | 🟦 getters & setters | 🟦 fetch API       |
-| ⬜ bitwise       | ⬜ char classes        | 🟦 .sort          |                      | 🟦 private variables | 🟨 Web Workers     |
-|                  | ⬜ quantifiers         | Other methods:    |                      | 🟦 closure func       |                     | 
-|  Literals:       | ⬜ alternation         | 🟦 Array.isArray |                      |                        |                     |  
-| 🟦 string       | ⬜ grouping            | 🟦 .forEach       |                      | Polymorphism:         |                     |  
-| 🟦 numeric      | ⬜ flags               | Destructuring:    |                      | 🟦 overriding         |                     | 
-| 🟦 boolean      | Meta-characters:        | 🟦 syntax         |                      | 🟦 overloading       |                     |  
-| 🟦 object       | ⬜ dot, caret, dollar  | 🟦 swapping var   |                      | 🟦 dynamic dispatch   |                     |
-|                  | ⬜ brackets            |                   |                      |                       |                     |
+| 🟦 objects        | Exception handling:   | 🟦 .concat         | 🟦 spreading arg    | Methods:             |                    |  
+| 🟦 symbols        | 🟦 try..catch         | 🟨 .toLocaleString | Return:             | 🟦 definitions       | Promises:          |  
+| 🟦 BigInt         | 🟦 throw              | 🟦 .map            | 🟦 statement        | 🟦 this keyword     | 🟦 syntax          |
+|                   | 🟦 finally             | 🟦 .reduce        | 🟦 values           | 🟦 chaining         | 🟦 chaining         |   
+| Variable scope:   |                        | 🟨 .reduceRight    | 🟦 implicit         |                     | 🟦 Promise.all      | 
+| 🟦 global        |                         | 🟦 .filter        | Recursion:           | Collection:         | 🟦 Promise.race     |  
+| 🟦 local         | Regular Expressions     | 🟦 .slice         | 🟦 recursive func   | 🟦 Map              | 🟦 error handling   | 
+| 🟦 function      | ⬜ regExp syntax       | 🟦 .flat          | 🟦 base cases       | 🟦 Set               | Async/await:         | 
+| 🟦 block         | ⬜  literals           | ⬜ .flatMap       | Closure:             |                     | 🟦 syntax            | 
+|                   | ⬜  constructor        | change initial arr | 🟦 lexical scope    |                     | 🟦 error handling    |
+| Additionally:     | RegExp methods:        | 🟦 .push          | 🟦 closure func      | OOP in JS           | 🟩 async generators  |
+| 🟦 hoisting      | ⬜ test()              | 🟦 .unshift        | Callbacks:           | 🟦 basics          | 🟩 util.promisify    | 
+| 🟦 Lexical scope | ⬜ match()             | 🟦 .pop           | 🟦 higher-order func | Inheritance:         |                     |  
+|                  | ⬜ search()            | 🟦 .shift         | 🟦 callback func     | 🟦 patterns          |                     | 
+| Operators:       | ⬜ replace()           | 🟦 .splice        |                      | 🟦 obj composition   | Browser APIs:        | 
+| 🟦 arithmetic    | ⬜ split()             | ⬜ .copyWithin    |                      |                      | 🟦 DOM-BOM          |    
+| 🟦 comparison    | ⬜ exec()              | 🟦 .fill          |                      | Encapsulation:       | 🟦 manipulation     |  
+| 🟦 logical       | RegExp patterns:       | 🟦 .reverse       |                      | 🟦 getters & setters | 🟦 Web Storage      |
+| ⬜ bitwise       | ⬜ char classes        | 🟦 .sort          |                      | 🟦 private variables | 🟦 events           |
+|                  | ⬜ quantifiers         | Other methods:    |                      | 🟦 closure func       | Web API:             | 
+|  Literals:       | ⬜ alternation         | 🟦 Array.isArray |                      |                        | 🟦 XMLHttpRequest   |  
+| 🟦 string       | ⬜ grouping            | 🟦 .forEach       |                      | Polymorphism:         | 🟦 fetch API         |  
+| 🟦 numeric      | ⬜ flags               | Destructuring:    |                      | 🟦 overriding         | 🟨 Web Workers       | 
+| 🟦 boolean      | Meta-characters:        | 🟦 syntax         |                      | 🟦 overloading       |                      |  
+| 🟦 object       | ⬜ dot, caret, dollar  | 🟦 swapping var   |                      | 🟦 dynamic dispatch   |                      |
+|                  | ⬜ brackets            |                   |                      |                       |                      |
 
 
 ### HTML & CSS
