@@ -32,7 +32,7 @@ https://github.com/devicons/devicon/
       <td colspan="2"><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Server-side Development</b></a></td>
       <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="60" /></td>
       <td> ... </td>
-      <td> ... </td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/mongodb-logo.svg" title="MongoDB" alt="MongoDB" width="50" /></td>
       <td> ... </td>
       <td> ... </td>
       <td> ... </td>
