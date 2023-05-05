@@ -1,4 +1,5 @@
-# My technical profile: knowledge and skills in various technologies and programming languages.
+# My technical profile: 
+**knowledge and skills in various technologies and programming languages**
 
 🟦 learned, 🟩 currently learn, 🟨 will study next, ⬜ optional plan
 
@@ -8,7 +9,7 @@
 
 
 
-___
+- - -
 
 ## FRONTEND
 
@@ -75,11 +76,4 @@ ___
 | 🟦 object       | ⬜ dot, caret, dollar  | 🟦 swapping var   |                      | 🟦 dynamic dispatch   |                      |
 |                  | ⬜ brackets            |                   |                      |                       |                      |
 
-
-### HTML & CSS
-
-
-
-
-
-___
+- - -
