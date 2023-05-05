@@ -1,4 +1,4 @@
-# Personal profile of my software engineering skills
+# My technical profile: knowledge and skills in various technologies and programming languages.
 
 🟦 learned, 🟩 currently learn, 🟨 will study next, ⬜ optional plan
 
