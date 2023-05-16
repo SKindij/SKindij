@@ -15,22 +15,22 @@
 
 ### REACT
 
-| Fundamentals              | Hooks                   | Router                   | Redux                 |
-|:--------------------------|:------------------------|:-------------------------|:----------------------|
-| 🟦 JSX syntax            | State Hook:             | 🟨 create components     | ⬜ Store              |
-| 🟦 class component       | 🟦 update state         | 🟨 Switch component      | ⬜ Actions           |
-| 🟦 functional component  | 🟦 multiple variables   | 🟨 Redirect component    | ⬜ Reducers           |
-| 🟦 simple component      | Effect Hook:            | 🟨 useParams hook        | ⬜ Subscriptions      |
-| 🟦 Props                 | 🟦 use to fetch data    | 🟨 useLocation hook      | React-Redux:          |
-| 🟦 State                 | 🟩 handle side effects  | 🟨 useRouteMatch hook    | ⬜ Provider component |
-| Component Lifecycle:      |                         | 🟨 useHistory hook       | ⬜ connect function   |
-| 🟦 componentDidMount     | 🟩 useContext Hook      | 🟨 prevent navigation    | ⬜ Middleware         |
-| 🟦 componentDidUpdate    |                         | 🟨 Prompt component      | ⬜ DevTools           |
-| 🟦 componentWillUnmount  | 🟩 useReducer Hook      | 🟨 Server-side Rendering | Advanced Topics:      |
-| 🟦 Handling Events       |                         | 🟨 code-splitting        | ⬜ selectors          |
-| 🟦 Conditional Rendering |                         | 🟨 lazy-loading          | ⬜ immutability       |
-| 🟦 Forms in React        | 🟩 Custom Hooks        | 🟨 animation             | ⬜ testing            |
-| 🟦 Styling in React      |                         |                          |                        |
+| Fundamentals              | Hooks                | Router                   | Redux                 |
+|:--------------------------|:---------------------|:-------------------------|:----------------------|
+| 🟦 JSX syntax            | 🟦 useState          | 🟨 create components     | ⬜ Store              |
+| 🟦 class component       | 🟦 useEffect         | 🟨 Switch component      | ⬜ Actions           |
+| 🟦 functional component  | 🟦 useContext        | 🟨 Redirect component    | ⬜ Reducers           |
+| 🟦 simple component      | 🟦 useReducer        | 🟨 useParams hook        | ⬜ Subscriptions      |
+| 🟦 Props                 | 🟦 useCallback       | 🟨 useLocation hook      | React-Redux:          |
+| 🟦 State                 | 🟦 useMemo           | 🟨 useRouteMatch hook    | ⬜ Provider component |
+| Component Lifecycle:      | 🟦 useRef           | 🟨 useHistory hook       | ⬜ connect function   |
+| 🟦 componentDidMount     |                      | 🟨 prevent navigation    | ⬜ Middleware         |
+| 🟦 componentDidUpdate    | Custom Hooks:        | 🟨 Prompt component      | ⬜ DevTools           |
+| 🟦 componentWillUnmount  | 🟩                   | 🟨 Server-side Rendering | Advanced Topics:      |
+| 🟦 Handling Events       | 🟩                   | 🟨 code-splitting        | ⬜ selectors          |
+| 🟦 Conditional Rendering | 🟩                   | 🟨 lazy-loading          | ⬜ immutability       |
+| 🟦 Forms in React        | 🟩                   | 🟨 animation             | ⬜ testing            |
+| 🟦 Styling in React      | 🟩                   |                          |                        |
 
 
 ### JAVASCRIPT
