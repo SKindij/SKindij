@@ -5,37 +5,32 @@
 
 ## BACKEND
 
-### NODE.JS
+### 📚 NODE.JS
 
 
 
-### MongoDB
+### 📚 MongoDB
 
-| Intro &  Basics            |  Basics                |                    |                  |
+| Intro &  Basics            |  Concepts              |                    |                  |
 |:---------------------------|:-----------------------|:-------------------------|:----------------------|
-| 🟦 What is MongoDB?       |         |       |               |
-| 🟦 When to use it?        |           |       |               |
-| 🟦 terminology            |      |       |               |
-| 🟦 Setting up environment |    |       |               |
-| 🟦 CRUD Operations        |  |       |               |
-| 🟦 about Atlas            | 🟦  |       |               |
-| 🟦 BSON vs JSON           |   | 🟨      | ⬜         |
-| 🟦 Data Types             | 🟩           | 🟨      | ⬜         |
-| 🟦 Embedded Arrays        | 🟩           | 🟨      | ⬜         |
-| 🟦 creating database      | 🟩           | 🟨      | ⬜         |
-| 🟦 db.createCollection    | 🟩           | 🟨      | ⬜         |
-| 🟦 inserting documents    | 🟩           | 🟨      | ⬜         |
-| 🟩 counting Documents     | 🟩           | 🟨      | ⬜         |
-| 🟩 bulkWrite()            | 🟩           | 🟨      | ⬜         |
-
-
-
+| 🟦 What is MongoDB?       | 🟩 read concerns       |       |               |
+| 🟦 When to use it?        | 🟩 write concern       |       |               |
+| 🟦 terminology            | 🟩 cursors methods     |       |               |
+| 🟦 Setting up environment | 🟩 retryable reads     |       |               |
+| 🟦 CRUD Operations        | 🟩 retryable writes    |       |               |
+| 🟦 Data Types             | Query Operators        |       |               |
+| 🟦 Embedded Arrays        | 🟩 Comparison op.      | 🟨      | ⬜         |
+| 🟦 creating database      | 🟩 Logical op.         | 🟨      | ⬜         |
+| 🟦 db.createCollection    | 🟩 Element op.         | 🟨      | ⬜         |
+| 🟦 inserting documents    | 🟩 Evaluation op.      | 🟨      | ⬜         |
+| 🟩 counting Documents     | 🟩 Array op.           | 🟨      | ⬜         |
+| 🟩 bulkWrite()            |                        | 🟨      | ⬜         |
 
 - - -
 
 ## FRONTEND
 
-### REACT
+### 📚 REACT
 
 | Fundamentals              | Hooks                | Router                   | Redux                 |
 |:--------------------------|:---------------------|:-------------------------|:----------------------|
@@ -55,7 +50,7 @@
 | 🟦 Styling in React      | 🟩                   |                          |                        |
 
 
-### JAVASCRIPT
+### 📚 JAVASCRIPT
 
 | Syntax             | Control flow          | Arrays             | Functions          |  Objects             | Asynchronous         |
 |:-------------------|:----------------------|:-------------------|:-------------------|:---------------------|:---------------------|
