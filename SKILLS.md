@@ -9,6 +9,28 @@
 
 
 
+### MongoDB
+
+| Intro &  Basics            |  Basics                |                    |                  |
+|:---------------------------|:-----------------------|:-------------------------|:----------------------|
+| 🟦 What is MongoDB?       |         |       |               |
+| 🟦 When to use it?        |           |       |               |
+| 🟦 terminology            |      |       |               |
+| 🟦 Setting up environment |    |       |               |
+| 🟦 CRUD Operations        |  |       |               |
+| 🟦 about Atlas            | 🟦  |       |               |
+| 🟦 BSON vs JSON           |   | 🟨      | ⬜         |
+| 🟦 Data Types             | 🟩           | 🟨      | ⬜         |
+| 🟦 Embedded Arrays        | 🟩           | 🟨      | ⬜         |
+| 🟦 creating database      | 🟩           | 🟨      | ⬜         |
+| 🟦 db.createCollection    | 🟩           | 🟨      | ⬜         |
+| 🟦 inserting documents    | 🟩           | 🟨      | ⬜         |
+| 🟩 counting Documents     | 🟩           | 🟨      | ⬜         |
+| 🟩 bulkWrite()            | 🟩           | 🟨      | ⬜         |
+
+
+
+
 - - -
 
 ## FRONTEND
@@ -17,10 +39,10 @@
 
 | Fundamentals              | Hooks                | Router                   | Redux                 |
 |:--------------------------|:---------------------|:-------------------------|:----------------------|
-| 🟦 JSX syntax            | 🟦 useState          | 🟨 create components     | ⬜ Store              |
+| 🟦 JSX syntax            | 🟦 useState          | 🟨 create components     | ⬜ Store             |
 | 🟦 class component       | 🟦 useEffect         | 🟨 Switch component      | ⬜ Actions           |
-| 🟦 functional component  | 🟦 useContext        | 🟨 Redirect component    | ⬜ Reducers           |
-| 🟦 simple component      | 🟦 useReducer        | 🟨 useParams hook        | ⬜ Subscriptions      |
+| 🟦 functional component  | 🟦 useContext        | 🟨 Redirect component    | ⬜ Reducers          |
+| 🟦 simple component      | 🟦 useReducer        | 🟨 useParams hook        | ⬜ Subscriptions     |
 | 🟦 Props                 | 🟦 useCallback       | 🟨 useLocation hook      | React-Redux:          |
 | 🟦 State                 | 🟦 useMemo           | 🟨 useRouteMatch hook    | ⬜ Provider component |
 | Component Lifecycle:      | 🟦 useRef           | 🟨 useHistory hook       | ⬜ connect function   |
