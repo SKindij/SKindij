@@ -11,20 +11,22 @@
 
 ### 📚 MongoDB
 
-| Intro &  Basics            |  Concepts              |                    |                  |
-|:---------------------------|:-----------------------|:-------------------------|:----------------------|
-| 🟦 What is MongoDB?       | 🟩 read concerns       |       |               |
-| 🟦 When to use it?        | 🟩 write concern       |       |               |
-| 🟦 terminology            | 🟩 cursors methods     |       |               |
-| 🟦 Setting up environment | 🟩 retryable reads     |       |               |
-| 🟦 CRUD Operations        | 🟩 retryable writes    |       |               |
-| 🟦 Data Types             | Query Operators        |       |               |
-| 🟦 Embedded Arrays        | 🟩 Comparison op.      | 🟨      | ⬜         |
-| 🟦 creating database      | 🟩 Logical op.         | 🟨      | ⬜         |
-| 🟦 db.createCollection    | 🟩 Element op.         | 🟨      | ⬜         |
-| 🟦 inserting documents    | 🟩 Evaluation op.      | 🟨      | ⬜         |
-| 🟩 counting Documents     | 🟩 Array op.           | 🟨      | ⬜         |
-| 🟩 bulkWrite()            |                        | 🟨      | ⬜         |
+| Intro &  Basics            |  Concepts              |  DataMorph                |                  |
+|:---------------------------|:-----------------------|:--------------------------|:------------------|
+| 🟦 What is MongoDB?       | 🟩 read concerns       | Indexing                  |         |
+| 🟦 When to use it?        | 🟩 write concern       | 🟨 index types           |          |
+| 🟦 terminology            | 🟩 cursors methods     | 🟨 creating indexes      |          |
+| 🟦 Setting up environment | 🟩 retryable reads     | 🟨 query optimization    |          |
+| 🟦 CRUD Operations        | 🟩 retryable writes    | Aggregation               |         |
+| 🟦 Data Types             | Query Operators        | 🟨 pipeline stages        |         |
+| 🟦 Embedded Arrays        | 🟩 Comparison op.      | 🟨 Agg. operators        |          |
+| 🟦 creating database      | 🟩 Logical op.         | 🟨 grouping & sorting    | ⬜         |
+| 🟦 db.createCollection    | 🟩 Element op.         | Schema design patterns    | ⬜         |
+| 🟦 inserting documents    | 🟩 Evaluation op.      | 🟨 Embedded Data Model   | ⬜         |
+| 🟩 counting Documents     | 🟩 Array op.           | 🟨 Normalized Data Model | ⬜         |
+| 🟩 bulkWrite()            |                        | 🟨 Hybrid Data Model     | ⬜         |
+|                            |                        | 🟨 Subset Data Model     | ⬜         |
+|                            |                        | 🟨 Metadata Data Model   | ⬜         |
 
 - - -
 
