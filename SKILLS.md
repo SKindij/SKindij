@@ -11,22 +11,22 @@
 
 ### 📚 MongoDB
 
-| Intro &  Basics            |  Concepts              |  DataMorph                |                  |
-|:---------------------------|:-----------------------|:--------------------------|:------------------|
-| 🟦 What is MongoDB?       | 🟩 read concerns       | Indexing                  |         |
-| 🟦 When to use it?        | 🟩 write concern       | 🟨 index types           |          |
-| 🟦 terminology            | 🟩 cursors methods     | 🟨 creating indexes      |          |
-| 🟦 Setting up environment | 🟩 retryable reads     | 🟨 query optimization    |          |
-| 🟦 CRUD Operations        | 🟩 retryable writes    | Aggregation               |         |
-| 🟦 Data Types             | Query Operators        | 🟨 pipeline stages        |         |
-| 🟦 Embedded Arrays        | 🟩 Comparison op.      | 🟨 Agg. operators        |          |
-| 🟦 creating database      | 🟩 Logical op.         | 🟨 grouping & sorting    | ⬜         |
-| 🟦 db.createCollection    | 🟩 Element op.         | Schema design patterns    | ⬜         |
-| 🟦 inserting documents    | 🟩 Evaluation op.      | 🟨 Embedded Data Model   | ⬜         |
-| 🟩 counting Documents     | 🟩 Array op.           | 🟨 Normalized Data Model | ⬜         |
-| 🟩 bulkWrite()            |                        | 🟨 Hybrid Data Model     | ⬜         |
-|                            |                        | 🟨 Subset Data Model     | ⬜         |
-|                            |                        | 🟨 Metadata Data Model   | ⬜         |
+| Intro &  Basics            |  Concepts              |  DataMorph                |  DB Mastering        |
+|:---------------------------|:-----------------------|:--------------------------|:---------------------|
+| 🟦 What is MongoDB?       | 🟩 read concerns       | Indexing                  | 🟩 MongoDB Shell    |
+| 🟦 When to use it?        | 🟩 write concern       | 🟨 index types           | 🟩 MongoDB Compass   |
+| 🟦 terminology            | 🟩 cursors methods     | 🟨 creating indexes      | 🟩 VS Code Extension |
+| 🟦 Setting up environment | 🟩 retryable reads     | 🟨 query optimization    | 🟨 MongoDB Atlas     |
+| 🟦 CRUD Operations        | 🟩 retryable writes    | Aggregation               | ⬜ Node.js driver   |
+| 🟦 Data Types             | Query Operators        | 🟨 pipeline stages        | ⬜ Kafka connector  |
+| 🟦 Embedded Arrays        | 🟩 Comparison op.      | 🟨 Agg. operators        | ⬜ connector Spark   |
+| 🟦 creating database      | 🟩 Logical op.         | 🟨 grouping & sorting    | ⬜ Studio 3T         |
+| 🟦 db.createCollection    | 🟩 Element op.         | Schema design patterns    | ⬜       |
+| 🟦 inserting documents    | 🟩 Evaluation op.      | 🟨 Embedded Data Model   | ⬜        |
+| 🟩 counting Documents     | 🟩 Array op.           | 🟨 Normalized Data Model | ⬜        |
+| 🟩 bulkWrite()            | Scaling Strategies     | 🟨 Hybrid Data Model     | ⬜        |
+|                            | ⬜ Horizontal         | 🟨 Subset Data Model     | ⬜        |
+| ⬜ Transactions           | ⬜ Vertical           | 🟨 Metadata Data Model   | ⬜         |
 
 - - -
 
