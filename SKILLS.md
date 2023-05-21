@@ -21,12 +21,12 @@
 | 🟦 Data Types             | Query Operators        | 🟨 pipeline stages        | ⬜ Kafka connector  |
 | 🟦 Embedded Arrays        | 🟩 Comparison op.      | 🟨 Agg. operators        | ⬜ connector Spark   |
 | 🟦 creating database      | 🟩 Logical op.         | 🟨 grouping & sorting    | ⬜ Studio 3T         |
-| 🟦 db.createCollection    | 🟩 Element op.         | Schema design patterns    | ⬜       |
-| 🟦 inserting documents    | 🟩 Evaluation op.      | 🟨 Embedded Data Model   | ⬜        |
-| 🟩 counting Documents     | 🟩 Array op.           | 🟨 Normalized Data Model | ⬜        |
-| 🟩 bulkWrite()            | Scaling Strategies     | 🟨 Hybrid Data Model     | ⬜        |
-|                            | ⬜ Horizontal         | 🟨 Subset Data Model     | ⬜        |
-| ⬜ Transactions           | ⬜ Vertical           | 🟨 Metadata Data Model   | ⬜         |
+| 🟦 db.createCollection    | 🟩 Element op.         | Schema design patterns    | ⬜ mongodump        |
+| 🟦 inserting documents    | 🟩 Evaluation op.      | 🟨 Embedded Data Model   | ⬜ mongorestore      |
+| 🟩 counting Documents     | 🟩 Array op.           | 🟨 Normalized Data Model | ⬜ Authentication    |
+| 🟩 bulkWrite()            | Scaling Strategies     | 🟨 Hybrid Data Model      | ⬜ Authorization    |
+|                            | ⬜ Horizontal         | 🟨 Subset Data Model      | ⬜ Encryption       |
+| ⬜ Transactions           | ⬜ Vertical            | 🟨 Metadata Data Model   | ⬜ Auditing          |
 
 - - -
 
