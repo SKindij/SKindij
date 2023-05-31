@@ -13,6 +13,7 @@ _A specification for adding human and machine readable meaning to commit message
 >  [optional footer(s)]
 > ```
 
+### ``<type>``    
 + **init:** 
   - initialize new project or repository
   - set up project structure
@@ -61,6 +62,40 @@ _A specification for adding human and machine readable meaning to commit message
   - make general project maintenance changes  
 + type/scope **!:** 
   - introduce breaking API change (like **MAJOR**);  
+  
+### ``[optional scope]`` should be the name of the npm package affected
+- animations
+- common
+- compiler
+- compiler-cli
+- core
+- elements
+- forms
+- http
+- language-service
+- platform-browser
+- platform-browser-dynamic
+- platform-server
+- platform-webworker
+- platform-webworker-dynamic
+- router
+- service-worker
+- upgrade
+
+### ``<description>``
+> * _the subject contains a succinct description of the change_
+> * _use the imperative, present tense: "change" not "changed" nor "changes"_
+> * _don't capitalize the first letter_
+> * _no dot (.) at the end_
+  
+###  ``[optional body]``
+> * _use the imperative, present tense: "change" not "changed" nor "changes"._
+> * _it should include the motivation for the change and contrast this with previous behavior._
+  
+### ``[optional footer(s)]``  
+> * _it should contain any information about Breaking Changes
+> * _it is also the place to reference GitHub issues that this commit Closes
+> * _BREAKING CHANGE: with a space or two newlines. The rest of the commit message is then used for this._
   
 - - -
 
