@@ -62,66 +62,67 @@ _A specification for adding human and machine readable meaning to commit message
   - _fix: address performance issue in rendering component_
   - _fix: resolve issue with incorrect data rendering_
   - _fix: Correct error handling for API response_
-    - _fix: fix broken link in navigation bar_
+  - _fix: fix broken link in navigation bar_
 + **feat:** (like **MINOR**)
+  - _feat: implement new module_  
   - _feat: introduce new feature to codebase_
   - _feat: implement user authentication feature_
-  - add significant enhancements, improvements, or entirely new capabilities
-  - implement new module
-  - introduct new API endpoint
-  - incorporate new user-facing feature
-  - _
-  - _
-  - _
+  - _feat: add search functionality to application_
+  - _feat: create new component for data visualization_
+  - _feat: add significant enhancements or entirely new capabilities_
+  - _feat: implement drag-and-drop functionality for file uploads_
+  - _feat: integrate third-party library for image processing_
+  - _feat: incorporate new user-facing feature_
+  - _feat: introduct new API endpoint_
 + perf:
-  - make changes aimed at improving performance of project
-  - optimizate algorithm
-  - enhance execution speed or resource usage
-  - _
-  - _
-  - _
+  - _perf: optimizate algorithm_
+  - _perf: enhance execution speed or resource usage_
+  - _perf: implement lazy loading for improved page load times_
+  - _perf: improve caching mechanism for faster data retrieval_
+  - _perf: make changes aimed at improving performance of project_
+  - _perf: enhance network request handling for quicker responses_
+  - _perf: reduce memory usage by optimizing resource management_  
+  - _perf: optimize rendering performance for large datasets_  
 + test:
-  - add, modify, or update tests
-  - change unit or integration tests
-  - _
-  - _  
-  - _
-  
+  - _test: add, modify, or update tests_
+  - _test: write integration tests for API endpoints_
+  - _test: add unit tests for user authentication module_
+  - _test: improve test coverage for data validation functions_
+  - _test: create test suite for edge cases and error scenarios_
+  - _test: ix failing test case in component rendering_
+  - _test: change unit or integration tests_  
 + ci:
-  - configure continuous integration (CI) 
-  - modificate CI pipeline, build scripts 
-  - made adjustments to integration or deployment processes 
-  - _  
-  - _  
-  - _
-  
+  - _ci: configure automated tests for pull requests_
+  - _ci: integrate code quality checks with SonarQube_
+  - _ci: made adjustments to integration or deployment processes_
+  - _ci: Update CI/CD configuration for deployment to production_
+  - _ci: set up continuous integration pipeline with Jenkins_
+  - _ci: add deployment pipeline for staging environment_  
 + chore:
-  - for miscellaneous or trivial changes that don't fit into any other category
-  - update package manager files,
-  - refactore code for code style consistency
-  - make general project maintenance changes
-  - _
-  - _
-  - _
+  - _chore: update package manager files_
+  - _chore: update dependencies to latest versions_
+  - _chore: make general project maintenance changes_
+  - _chore: refactore code for code style consistency_  
+  - _chore: refactor project structure for better organization
+  - _chore: remove unused files and assets_
+  - _chore: update project documentation_
 + type/scope **!:** 
   - introduce breaking API change (like **MAJOR**);  
   
-### ``[optional scope]`` should be the name of the npm package affected
-- animations
-- common
-- compiler
-- compiler-cli
+### ``[optional scope]``
+> you should choose relevant value that reflects area of project being modified
 - core
-- elements
+  * _include essential features and services used by framework_
 - forms
+  * _handle form validation, data binding, and form controls_
 - http
-- language-service
-- platform-browser
-- platform-browser-dynamic
-- platform-server
-- platform-webworker
-- platform-webworker-dynamic
+  * _provides services for making HTTP requests and handling responses_
+- animations
+  * _adding, modifying, or fixing animation-related features or effects_
+- common
+  * _changes in common/shared components or functionality used throughout app_
 - router
+  * _provide routing and navigation functionality for application_
 - service-worker
 - upgrade
 
