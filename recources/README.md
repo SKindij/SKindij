@@ -15,51 +15,90 @@ _A specification for adding human and machine readable meaning to commit message
 
 ### ``<type>``    
 + **init:** 
-  - initialize new project or repository
-  - set up project structure
-  - add necessary files
-  - perform essential configurations
+  - _init: initialize new project or Git repository_
+  - _init: add basic README file_
+  - _init: set up development environment_
+  - _init: create initial configuration files_
+  - _init: set up project structure and dependencies_
+  - _init: perform essential configurations_
+  - _init: add necessary files_  
 + **build:** 
-  - make changes related to build systems or dependencies
-  - make modifications to build scripts, configurations, or tools
+  - _build: update webpack configuration_
+  - _build: configure babel for ES6 support_
+  - _build: update dependencies and package versions_
+  - _build: make changes related to build systems or dependencies_
+  - _build: make modifications to build scripts, configurations, or tools_
+  - _build: optimize build process for faster compilation_
 + **docs:**
-  - make changes to documentation files or user guides
-  - update or improve README files
+  - _docs: add examples to the usage guide_
+  - _docs: update API reference in README_
+  - _docs: make changes to documentation file_
+  - _docs: document project setup and installation instructions_
+  - _docs: correct grammar in documentation_
+  - _docs: update or improve README files_
 + style:
-  - change code style or formatting
-  - make whitespace or indentation adjustments
-  - update code comment  
+  - _style: change code style or formatting
+  - _style: make whitespace or indentation adjustments
+  - _style: update code comment  
+  - _
+  - _
+  - _
+  - _
 + refactor:
   - restructure or reorganize existing codebase
   - improve code readability
-  - optimize performance without changing overall behavior  
+  - optimize performance without changing overall behavior
+  - _
+  - _
+  - _
 + **fix:** 
   - patche bug in codebase (like **PATCH**);
   - address bug or issue in codebase
   - resolve problem
   - fix incorrect behavior or software defect
+  - _
+  - _
+  - _
+  - _
 + **feat:** 
   - introduce new feature to codebase (like **MINOR**);
   - add significant enhancements, improvements, or entirely new capabilities
   - implement new module
   - introduct new API endpoint
   - incorporate new user-facing feature
+  - _
+  - _
+  - _
 + perf:
   - make changes aimed at improving performance of project
   - optimizate algorithm
   - enhance execution speed or resource usage
+  - _
+  - _
+  - _
 + test:
   - add, modify, or update tests
   - change unit or integration tests
+  - _
+  - _  
+  - _
+  
 + ci:
   - configure continuous integration (CI) 
   - modificate CI pipeline, build scripts 
-  - made adjustments to integration or deployment processes  
+  - made adjustments to integration or deployment processes 
+  - _  
+  - _  
+  - _
+  
 + chore:
   - for miscellaneous or trivial changes that don't fit into any other category
   - update package manager files,
   - refactore code for code style consistency
-  - make general project maintenance changes  
+  - make general project maintenance changes
+  - _
+  - _
+  - _
 + type/scope **!:** 
   - introduce breaking API change (like **MAJOR**);  
   
