@@ -33,35 +33,39 @@ _A specification for adding human and machine readable meaning to commit message
   - _docs: add examples to the usage guide_
   - _docs: update API reference in README_
   - _docs: make changes to documentation file_
-  - _docs: document project setup and installation instructions_
+  - _docs: document project setup or installation instructions_
   - _docs: correct grammar in documentation_
   - _docs: update or improve README files_
 + style:
-  - _style: change code style or formatting
-  - _style: make whitespace or indentation adjustments
-  - _style: update code comment  
-  - _
-  - _
-  - _
-  - _
+  - _style: format code_
+  - _style: change code style_
+  - _style: make whitespace adjustments_
+  - _style: fix indentation issues in codebase_
+  - _style: update CSS styles for consistency_
+  - _style: remove unused variables and imports_  
+  - _style: update code comments_
 + refactor:
-  - restructure or reorganize existing codebase
-  - improve code readability
-  - optimize performance without changing overall behavior
-  - _
-  - _
-  - _
-+ **fix:** 
-  - patche bug in codebase (like **PATCH**);
-  - address bug or issue in codebase
-  - resolve problem
-  - fix incorrect behavior or software defect
-  - _
-  - _
-  - _
-  - _
-+ **feat:** 
-  - introduce new feature to codebase (like **MINOR**);
+  - _refactor: rename variables for clarity_
+  - _refactor: simplify complex logic in function_
+  - _refactor: restructure or reorganize existing codebase_
+   - _refactor: optimize performance without changing overall behavior_  
+  - _refactor: extract reusable component from existing code_
+  - _refactor: improve code organization and structure_ 
+  - _refactor: improve code readability_
+  - _refactor: remove redundant code_
++ **fix:** (like **PATCH**)
+  - _fix: patche bug in codebase_
+  - _fix: resolve problem with_
+  - _fix: address bug or issue in codebase_
+  - _fix: fix incorrect behavior or software defect_
+  - _fix: Patch security vulnerability in authentication module_
+  - _fix: address performance issue in rendering component_
+  - _fix: resolve issue with incorrect data rendering_
+  - _fix: Correct error handling for API response_
+    - _fix: fix broken link in navigation bar_
++ **feat:** (like **MINOR**)
+  - _feat: introduce new feature to codebase_
+  - _feat: implement user authentication feature_
   - add significant enhancements, improvements, or entirely new capabilities
   - implement new module
   - introduct new API endpoint
