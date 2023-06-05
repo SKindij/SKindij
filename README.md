@@ -1,12 +1,5 @@
 <!--
 **SKindij/SKindij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-https://shields.io/category/social
-https://github.com/devicons/devicon/
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-
-Complete list of github markdown emoji markup https://gist.github.com/rxaviers/7360908
-
 -->
 
 <div id="header" align="center">
@@ -72,8 +65,6 @@ Complete list of github markdown emoji markup https://gist.github.com/rxaviers/7
     </tr>
   </tbody>
 </table>
-
-
 	
 - - -
 
@@ -81,10 +72,11 @@ Complete list of github markdown emoji markup https://gist.github.com/rxaviers/7
 They contain information and code examples that I've gathered along the way.
 
 * [Node.js Basics](https://github.com/SKindij/basics-of-Node.js)
-* [JavaScript Reference Guide](https://github.com/SKindij/JavaScript-reference-book)
-* [Asynchronous Programming Node.js](https://github.com/SKindij/Asynchronous-JS-Nodejs)
-* [Getting Started with React.js](https://github.com/SKindij/basics-of-React.js)
-* [Database Handbook](https://github.com/SKindij/database-reference-book)
+* [Database Handbook: MongoDB & PostgreSQL](https://github.com/SKindij/Database-Handbook-MongoDB-PostgreSQL)
+* [React & Redux Knowledge Base](https://github.com/SKindij/React-Redux-Knowledge-Base)
+* [React-UI-Styling-Playbook](https://github.com/SKindij/React-UI-Styling-Playbook)
+* [JavaScript Reference Guide](https://github.com/SKindij/JavaScript-Reference-Guide)
+* [Asynchronous Programming JS](https://github.com/SKindij/Asynchronous-Programming-JS)
 
 &emsp;_I hope these resources will be helpful for people who are looking to learn about a particular topic from scratch, or for those who want to refresh or improve their skills and knowledge on a certain subject._
 
