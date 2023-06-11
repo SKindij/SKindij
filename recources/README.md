@@ -21,7 +21,8 @@ _A specification for adding human and machine readable meaning to commit message
   - _init: create initial configuration files_
   - _init: set up project structure and dependencies_
   - _init: perform essential configurations_
-  - _init: add necessary files_  
+  - _init: add necessary files_
+  - _init: create an additional file_
 + **build:** 
   - _build: update webpack configuration_
   - _build: configure babel for ES6 support_
@@ -34,8 +35,10 @@ _A specification for adding human and machine readable meaning to commit message
   - _docs: update API reference in README_
   - _docs: make changes to documentation file_
   - _docs: document project setup or installation instructions_
+  - _docs: write description of certain functionality_
   - _docs: correct grammar in documentation_
-  - _docs: update or improve README files_
+  - _docs: update or improve README file_
+  - _docs: add code examples on topic_
 + style:
   - _style: format code_
   - _style: change code style_
@@ -103,9 +106,10 @@ _A specification for adding human and machine readable meaning to commit message
   - _chore: update dependencies to latest versions_
   - _chore: make general project maintenance changes_
   - _chore: refactore code for code style consistency_  
-  - _chore: refactor project structure for better organization
+  - _chore: refactor project structure for better organization_
   - _chore: remove unused files and assets_
   - _chore: update project documentation_
+  - _chore: add code examples on topic_
 + type/scope **!:** 
   - introduce breaking API change (like **MAJOR**);  
   
@@ -137,8 +141,8 @@ _A specification for adding human and machine readable meaning to commit message
 > * _it should include the motivation for the change and contrast this with previous behavior._
   
 ### ``[optional footer(s)]``  
-> * _it should contain any information about Breaking Changes
-> * _it is also the place to reference GitHub issues that this commit Closes
+> * _it should contain any information about Breaking Changes_
+> * _it is also the place to reference GitHub issues that this commit Closes_
 > * _BREAKING CHANGE: with a space or two newlines. The rest of the commit message is then used for this._
   
 - - -
