@@ -7,19 +7,19 @@ Conventional file stores cannot show parallel change histories of the same file,
 ## Git
 &emsp;**Bash** is an abbreviation for Bourne Again Shell, which we enable in the required project folder.
 
-|       terminal      | performance | 
-|---------------------|------------|
-|     ``cd``          | tilde (parent directory) |
-|     ``pwd``         | present working directory |
-| ``mkdir <folder name>`` | new folder |
-| ``ctrl+l`` | clears the screen |
-| ``cd <teka name>`` | go to the folder |
-| ``ls`` | see its contents|
-| <kbd>Ctrl + a</kbd> | to the beginning of the line|
-| <kbd>Ctrl + e</kbd> | at its end|
-| <kbd>Ctrl + C</kbd> | stop process as SIGINT|
+|        terminal       |        performance        |  |        terminal       |        performance        |
+|-----------------------|---------------------------|--|-----------------------|---------------------------|
+|       ``cd``          |  tilde (parent directory) |  | | |
+|       ``pwd``         | present working directory |  | | |
+|``mkdir <folder name>``|          new folder       |  | | |
+|       ``ctrl+l``      |      clears the screen    |  | | |
+|  ``cd <teka name>``   |       go to the folder    |  | | |
+|         ``ls``        |      see its contents     |  | | |
+|  <kbd>Ctrl + a</kbd>  | to beginning of the line  |  | | |
+|  <kbd>Ctrl + e</kbd>  |         at its end        |  | | |
+|  <kbd>Ctrl + C</kbd>  |   stop process as SIGINT  |  | | |
 
-
-
+* ``git clone https://github.com/SKindij/<url.git>`` - _getting a copy of the existing Git repository on the working PC;_
+* ``git add <file name.vv>`` - 
 
 
