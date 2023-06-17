@@ -50,16 +50,15 @@ Conventional file stores cannot show parallel change histories of the same file,
 * ``git fetch <link>`` - _it goes to remote project and retrieves all data that you don't have yet, which you can merge or review at any time;_
 * ``git pull`` - _fetches data from the server and tries to merge it with the code you are currently working on;_
 
-Git supports two types of tags: lightweight tags (_pointers to specific commit_) and annotated tags (_with description of tagged version_).
+Git supports two types of tags: lightweight tags (_pointers to specific commit_) and annotated tags (_with description of tagged version_).\
+&emsp;**Lightweight tags:** These are simple pointers to specific commits. They are created using the command ``git tag <tag_name>``. Lightweight tags are created without any additional information or metadata, such as a description or tagger's name. They are commonly used for marking specific points in history but do not carry any extra information.\
+&emsp;**Annotated tags:** These tags include extra information, such as a tag message, tagger's name, email, and the date the tag was created. Annotated tags are created using the command ``git tag -a <tag_name> -m "tag message"``. The ``-a`` flag stands for "annotated," and the ``-m`` flag allows you to provide a message for the tag. Annotated tags are typically used for releases or important milestones, as they provide more context and information about the tagged version.\
+&emsp;Both types of tags can be useful depending on the purpose and requirements of your project.
 
-&emsp;**Lightweight tags:** These are simple pointers to specific commits. They are created using the command ``git tag <tag_name>``. Lightweight tags are created without any additional information or metadata, such as a description or tagger's name. They are commonly used for marking specific points in history but do not carry any extra information.
-
-&emsp;**Annotated tags:** These tags include extra information, such as a tag message, tagger's name, email, and the date the tag was created. Annotated tags are created using the command ``git tag -a <tag_name> -m "tag message"``. The ``-a`` flag stands for "annotated," and the ``-m`` flag allows you to provide a message for the tag. Annotated tags are typically used for releases or important milestones, as they provide more context and information about the tagged version.
-
-Both types of tags can be useful depending on the purpose and requirements of your project.
-
-
-
+* ``git tag`` - _to get a list of available tags;_
+  + ``git tag -a v0.1.7 -m "web-app version 0.1.7"; ``
+  + ``git show v0.1.5`` - _shows info about the author, date of creation;_
+  + ``git push origin --tags`` - _it will transfer all tags to remote server that are not there yet;_
 
 
 
