@@ -107,6 +107,8 @@ _A specification for adding human and machine readable meaning to commit message
   - _chore: make general project maintenance changes_
   - _chore: refactore code for code style consistency_  
   - _chore: refactor project structure for better organization_
+  - _chore: add new elements to the database_
+  - _chore: update information in the database_
   - _chore: remove unused files and assets_
   - _chore: update project documentation_
   - _chore: add code examples on topic_
