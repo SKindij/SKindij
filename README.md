@@ -1,11 +1,15 @@
 <!--
 **SKindij/SKindij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="150"/>
 </div>
+
+## Hello, I'm Serhii 👋.
+
+&emsp;I'm a passionate developer with expertise in JavaScript, React.\
+I love building web applications that solve real-world problems and improve user experiences.
 
 <table align="center">
   <thead align="center">
@@ -60,6 +64,18 @@ They contain information and code examples that I've gathered along the way.
 * [Asynchronous Programming JS](https://github.com/SKindij/Asynchronous-Programming-JS)
 
 &emsp;_I hope these resources will be helpful for people who are looking to learn about a particular topic from scratch, or for those who want to refresh or improve their skills and knowledge on a certain subject._
+
+- - -
+
+### My projects
+
+* [SKRollo-app](https://github.com/SKindij/SKRollo-app)
+  - Vanilla JavaScript, HTML, CSS, Webpack.
+  - _Efficient web application for manufacturers and suppliers of protective shutters._
+  - _Calculate precise material requirements for shutter production, saving time and resources._
+
+
+
 
 - - -	
 	
