@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="150"/>
 </div>
 
-## Hello, I'm Serhii 👋.
+## Hello, I'm Serhii 👋 - Full Stack Developer.
 
 &emsp;I'm a passionate developer with expertise in JavaScript, React.\
 I love building web applications that solve real-world problems and improve user experiences.
@@ -69,16 +69,24 @@ They contain information and code examples that I've gathered along the way.
 
 ### My projects
 
+* [RVA-expert](https://github.com/SKindij/RVA-expert)
+  - React (Vite), React-Router, Material UI, react-helmet;
+  - _Landing SPA for a real local business - "Tech Solutions";
+* [OSAtechno](https://github.com/SKindij/OSAtechno)
+  - React (CRA), React-Router, React-Bootstrap, SASS, react-helmet, pdfmake;
+  - _OSA - Optimal Selection of Accessories;_
+  - _Find the best gate accessories. React.js web-app._
 * [SKRollo-app](https://github.com/SKindij/SKRollo-app)
-  - Vanilla JavaScript, HTML, CSS, Webpack.
+  - Vanilla JavaScript, HTML, CSS, Webpack;
   - _Efficient web application for manufacturers and suppliers of protective shutters._
   - _Calculate precise material requirements for shutter production, saving time and resources._
 
-
-
-
 - - -	
-	
+
+### Let's Connect!
+
+I'm always open to new opportunities and collaborations. Let's connect on [LinkedIn](https://www.linkedin.com/in/serhii-kindiakov/)!
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/serhii-kindiakov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
