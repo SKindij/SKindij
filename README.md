@@ -8,8 +8,7 @@
 
 ## Hello, I'm Serhii 👋 - Full Stack Developer.
 
-&emsp;I'm a passionate developer with expertise in JavaScript, React.\
-I love building web applications that solve real-world problems and improve user experiences.
+_I love building web applications that solve real-world problems and improve user experiences._
 
 <table align="center">
   <thead align="center">
