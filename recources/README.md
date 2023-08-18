@@ -28,15 +28,17 @@ _A specification for adding human and machine readable meaning to commit message
 | create an additional file                             | _створюємо додатковий файл_                         |
 
 
-|         type: EN description                          |             UA description                          |
-|-------------------------------------------------------|-----------------------------------------------------|
-  
-  - _build: update webpack configuration_
-  - _build: configure babel for ES6 support_
-  - _build: update dependencies and package versions_
-  - _build: make changes related to build systems or dependencies_
-  - _build: make modifications to build scripts, configurations, or tools_
-  - _build: optimize build process for faster compilation_
+|         type: EN description                          |             UA description                         |
+|-------------------------------------------------------|----------------------------------------------------|
+| build: update Webpack for improved bundling           | _оновлюємо Webpack для покращеного комплектування_ |
+| build: configure babel for ES6+ support               | _налаштовуємо babel для підтримки ES6+_            |  
+| build: make changes related to dependencies           | _вносимо зміни, пов’язані із залежностями_         |
+| build: make modifications to build scripts or tools   | _модифікуємо сценарії збірки або інструменти_      |
+| build: optimize build process for faster compilation  | _оптимізуємо процес для швидшої компіляції_        |
+| build: streamline build scripts for better efficiency | _впорядковуємо сценарії для кращої ефективності_   |
+| build: implement performance improvements in system   | _впроваджуємо покращень продуктивності системи_    |
+
+    
 + **docs:**
   - _docs: add examples to the usage guide_
   - _docs: update API reference in README_
