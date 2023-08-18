@@ -14,16 +14,23 @@ _A specification for adding human and machine readable meaning to commit message
 > ```
 
 ### ``<type>``    
-+ **init:** 
-  - _init: initialize new project or Git repository_
-  - _init: add basic README file_
-  - _init: set up development environment_
-  - _init: create initial configuration files_
-  - _init: set up project structure and dependencies_
-  - _init: perform essential configurations_
-  - _init: add necessary files_
-  - _init: create an additional file_
-+ **build:** 
+
+|         type: EN description                          |             UA description                          |
+|-------------------------------------------------------|-----------------------------------------------------|
+| init: initialize new project or Git repository        | _ініціалізовуємо новий проект або сховище Git_      |
+| init: create project structure and initial files      | _створюємо структуру проекту та початкові файли_    |
+| init: establish essential configurations and settings | _установлюємо основні конфігурації та налаштування_ |
+| init: add basic README file with project overview     | _додаємо основний файл README з оглядом проекту_    |
+| init: set up development environment and tools        | _налаштувуємо середовище розробки та інструменти_   |
+| init: configure dependencies and package managers     | _конфігуруємо залежності та менеджери пакетів_      |
+| init: set up project structure and dependencies       | _налаштовуємо структуру проекту та залежності_      |
+| add necessary file                                    | _додаємо необхідний файл_                           |
+| create an additional file                             | _створюємо додатковий файл_                         |
+
+
+|         type: EN description                          |             UA description                          |
+|-------------------------------------------------------|-----------------------------------------------------|
+  
   - _build: update webpack configuration_
   - _build: configure babel for ES6 support_
   - _build: update dependencies and package versions_
