@@ -21,11 +21,11 @@ _A specification for adding human and machine readable meaning to commit message
 | init: create project structure and initial files      | _створюємо структуру проекту та початкові файли_    |
 | init: establish essential configurations and settings | _установлюємо основні конфігурації та налаштування_ |
 | init: add basic README file with project overview     | _додаємо основний файл README з оглядом проекту_    |
+| init: set up project structure and dependencies       | _налаштовуємо структуру проекту та залежності_      |
+| init: add necessary file                              | _додаємо необхідний файл_                           |
+| init: create an additional file                       | _створюємо додатковий файл_                         |
 | init: set up development environment and tools        | _налаштувуємо середовище розробки та інструменти_   |
 | init: configure dependencies and package managers     | _конфігуруємо залежності та менеджери пакетів_      |
-| init: set up project structure and dependencies       | _налаштовуємо структуру проекту та залежності_      |
-| add necessary file                                    | _додаємо необхідний файл_                           |
-| create an additional file                             | _створюємо додатковий файл_                         |
 
 
 |         type: EN description                          |             UA description                         |
@@ -38,16 +38,34 @@ _A specification for adding human and machine readable meaning to commit message
 | build: streamline build scripts for better efficiency | _впорядковуємо сценарії для кращої ефективності_   |
 | build: implement performance improvements in system   | _впроваджуємо покращень продуктивності системи_    |
 
-    
-+ **docs:**
-  - _docs: add examples to the usage guide_
-  - _docs: update API reference in README_
-  - _docs: make changes to documentation file_
-  - _docs: document project setup or installation instructions_
-  - _docs: write description of certain functionality_
-  - _docs: correct grammar in documentation_
-  - _docs: update or improve README file_
-  - _docs: add code examples on topic_
+
+|         type: EN description                         |             UA description                              |
+|------------------------------------------------------|---------------------------------------------------------|
+| docs: document project installation instructions     | _документуємо інструкції зі встановлення проекту_       |
+| docs: write description of certain functionality     | _пишемо опис певної функціональності_                   |
+| docs: add usage examples and code snippets           | _додаємо приклади використання та фрагменти коду_       |
+| docs: update API reference in project documentation  | _оновлюємо посилання на API в проектній документації_   |
+| docs: clarify descriptions of key functionalities    | _уточнюємо описи ключових функцій_                      |
+| docs: correct typos and grammatical errors           | _виправляємо друкарські та граматичні помилки_          |
+| docs: make changes to documentation file             | _вносимо зміни до файлу документації_                   |
+| docs: update and improve README file                 | _оновлюємо та покращуємо файл README_                   |
+| docs: add code examples on topic                     | _додаємо приклади коду по темі_                         |
+| docs: improve installation instructions in README    | _покращуємо інструкції зі встановлення в README_        |
+| docs: enhance code comments for better understanding | _вдосконалюємо коментарі до коду для кращого розуміння_ |
+
+
+
+
+|         type: EN description                         |             UA description                              |
+|------------------------------------------------------|---------------------------------------------------------|
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+
+
 + style:
   - _style: format code_
   - _style: change code style_
