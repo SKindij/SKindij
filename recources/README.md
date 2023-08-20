@@ -64,32 +64,28 @@ _A specification for adding human and machine readable meaning to commit message
 | build: implement performance improvements in system   | _впроваджуємо покращень продуктивності системи_    |
 
 
-|         type: EN description                       |             UA description                                |
-|----------------------------------------------------|-----------------------------------------------------------|
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
+|         type:(like MINOR) EN description                        |             UA description                                |
+|-----------------------------------------------------------------|-----------------------------------------------------------|
+| feat: implement new module                                      | _реалізовуємо новий модуль_                               |
+| feat: introduce new feature to codebase                         | _представляємо нову функцію в кодовій базі_               |
+| feat: introduce user authentication feature                     | _запроваджуємо функцію автентифікації користувача_        |
+| feat: implement search functionality in app                     | _реалізовуємо функцію пошуку в додатку_                   |
+| feat: add significant enhancements or entirely new capabilities | _додаємо значні покращення або повністю нові можливості_  |
+| feat: integrate third-party library for image processing        | _інтегруємо сторонню бібліотеку для обробки зображень_    |
+| feat: add drag-and-drop support for file uploads                | _додаємо підтримку перетягування для завантаження файлів_ |
+| feat: create new data visualization component                   | _створюємо новий компонент візуалізації даних_            |
+| feat: incorporate new user-facing feature                       | _включаємо нову функцію, спрямовану на користувача_       |
+| feat: introduct new API endpoint                                | _представляємо нову кінцеву точку API_                    |
 
 
-
-
-+ **feat:** (like **MINOR**)
-  - _feat: implement new module_  
-  - _feat: introduce new feature to codebase_
-  - _feat: implement user authentication feature_
-  - _feat: add search functionality to application_
-  - _feat: create new component for data visualization_
-  - _feat: add significant enhancements or entirely new capabilities_
-  - _feat: implement drag-and-drop functionality for file uploads_
-  - _feat: integrate third-party library for image processing_
-  - _feat: incorporate new user-facing feature_
-  - _feat: introduct new API endpoint_
+|         type: EN description                          |             UA description                         |
+|-------------------------------------------------------|----------------------------------------------------|
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
 
 
 
