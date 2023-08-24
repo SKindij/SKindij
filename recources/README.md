@@ -78,6 +78,20 @@ _A specification for adding human and machine readable meaning to commit message
 | feat: introduct new API endpoint                                | _представляємо нову кінцеву точку API_                    |
 
 
+|         type: EN description                                |             UA description                             |
+|-------------------------------------------------------------|--------------------------------------------------------|
+| chore: update package manager files                         | _оновлюємо файли менеджера пакетів_                    |
+| chore: update dependencies to latest versions               | _оновлюємо залежності до останніх версій_              |
+| chore: perform general project maintenance tasks            | _виконуємо загальні завдання з обслуговування проекту_ |
+| chore: refactor code to maintain code style consistency     | _рефакторимо код для підтримки узгодженості стилю коду_ |
+| chore: reorganize project structure for better organization | _реорганізовуємо структуру проекту для кращої організації_ |
+| chore: add new entries to the database                      | _додаємо нові записи до бази даних_               |
+| chore: update information within the database               | _оновлюємо інформацію в базі даних_               |
+| chore: remove unused files and assets                       | _видаляємо невикористані файли та ресурси_        |
+| chore: update project documentation                         | _оновлюємо проектну документацію_                 |
+| chore: add code examples related to a specific topic        | _додаємо приклади коду, пов’язані з певною темою_ |
+
+
 |         type: EN description                          |             UA description                         |
 |-------------------------------------------------------|----------------------------------------------------|
 |  | __ |
@@ -86,28 +100,9 @@ _A specification for adding human and machine readable meaning to commit message
 |  | __ |
 |  | __ |
 |  | __ |
-
-
-
-
-
-
-+ chore:
-  - _chore: update package manager files_
-  - _chore: update dependencies to latest versions_
-  - _chore: make general project maintenance changes_
-  - _chore: refactore code for code style consistency_  
-  - _chore: refactor project structure for better organization_
-  - _chore: add new elements to the database_
-  - _chore: update information in the database_
-  - _chore: remove unused files and assets_
-  - _chore: update project documentation_
-  - _chore: add code examples on topic_
-
-
-
-
-
+|  | __ |
+|  | __ |
+|  | __ |
 
 
 + **fix:** (like **PATCH**)
