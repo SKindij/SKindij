@@ -119,24 +119,14 @@ _A specification for adding human and machine readable meaning to commit message
 
 |         type: EN description                                |             UA description                             |
 |-------------------------------------------------------------|--------------------------------------------------------|
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-
-
-+ perf:
-  - _perf: optimizate algorithm_
-  - _perf: enhance execution speed or resource usage_
-  - _perf: implement lazy loading for improved page load times_
-  - _perf: improve caching mechanism for faster data retrieval_
-  - _perf: make changes aimed at improving performance of project_
-  - _perf: enhance network request handling for quicker responses_
-  - _perf: reduce memory usage by optimizing resource management_  
-  - _perf: optimize rendering performance for large datasets_  
+| perf: optimize algorithms for better performance | _оптимізуємо алгоритми для кращої продуктивності_ |
+| perf: enhance execution speed or resource usage | _підвищуємо швидкість виконання або використання ресурсів_ |
+| perf: implement lazy loading for improved page load times | _реалізовуємо відкладене завантаження для покращеного часу завантаження сторінки_ |
+| perf: enhance caching mechanisms for faster data retrieval | _вдосконалюємо механізми кешування для швидшого отримання даних_ |
+| perf: make changes to improve overall project performance | _вносимо зміни для покращення загальної продуктивності проекту_ |
+| perf: optimize network request handling for quicker responses | _оптимізуємо обробку мережевих запитів для швидшої відповіді_ |
+| perf: reduce memory usage through optimized resource management | _зменшуємо використання пам'яті завдяки оптимізованому управлінню ресурсами_ |
+| perf: enhance rendering performance for handling large datasets | _підвищуємо продуктивність візуалізації для обробки великих наборів даних_ |
 
 
 |         type: EN description                                |             UA description                             |
@@ -160,6 +150,16 @@ _A specification for adding human and machine readable meaning to commit message
   - _test: change unit or integration tests_  
 
 
+|         type: EN description                                |             UA description                             |
+|-------------------------------------------------------------|--------------------------------------------------------|
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+
 
 + ci:
   - _ci: configure automated tests for pull requests_
@@ -174,9 +174,6 @@ _A specification for adding human and machine readable meaning to commit message
 
 + type/scope **!:** 
   - introduce breaking API change (like **MAJOR**);  
-
-
-
 
   
 ### ``[optional scope]``
