@@ -107,24 +107,14 @@ _A specification for adding human and machine readable meaning to commit message
 
 |         type: EN description                                |             UA description                             |
 |-------------------------------------------------------------|--------------------------------------------------------|
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-
-
-+ refactor:
-  - _refactor: rename variables for clarity_
-  - _refactor: simplify complex logic in function_
-  - _refactor: restructure or reorganize existing codebase_
-   - _refactor: optimize performance without changing overall behavior_  
-  - _refactor: extract reusable component from existing code_
-  - _refactor: improve code organization and structure_ 
-  - _refactor: improve code readability_
-  - _refactor: remove redundant code_
+| refactor: rename variables for better clarity | _перейменовуємо змінні для кращої ясності_ |
+| refactor: simplify complex logic within a function | _спрощуємо складну логіку в межах функції_ |
+| refactor: restructure or reorganize existing codebase | _реструктуризуємо або реорганізуємо існуючу кодову базу_ |
+| refactor: optimize performance without changing behavior | _оптимізуємо продуктивність без зміни поведінки_ |
+| refactor: extract a reusable component from the existing code | _витягуємо повторно використовуваний компонент із існуючого коду_ |
+| refactor: improve code organization and structure | _покращуємо організацію та структуру коду_ |
+| refactor: enhance code readability | _вдосконалюємо читабельність коду_ |
+| refactor: remove redundant code | _видаляємо зайвий код_ |
 
 
 |         type: EN description                                |             UA description                             |
@@ -137,6 +127,7 @@ _A specification for adding human and machine readable meaning to commit message
 |  | __ |
 |  | __ |
 
+
 + perf:
   - _perf: optimizate algorithm_
   - _perf: enhance execution speed or resource usage_
@@ -147,6 +138,16 @@ _A specification for adding human and machine readable meaning to commit message
   - _perf: reduce memory usage by optimizing resource management_  
   - _perf: optimize rendering performance for large datasets_  
 
+
+|         type: EN description                                |             UA description                             |
+|-------------------------------------------------------------|--------------------------------------------------------|
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
 
 
 + test:
