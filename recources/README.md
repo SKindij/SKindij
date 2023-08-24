@@ -92,32 +92,28 @@ _A specification for adding human and machine readable meaning to commit message
 | chore: add code examples related to a specific topic        | _додаємо приклади коду, пов’язані з певною темою_ |
 
 
-|         type: EN description                          |             UA description                         |
+|         type:(like PATCH) EN description              |             UA description                         |
 |-------------------------------------------------------|----------------------------------------------------|
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
+| fix: patche bug in codebase | _виправляємо помилки в кодовій базі_ |
+| fix: resolve problem with | _вирішуємо проблему з_ |
+| fix: address bug or issue in codebase | _усуваємо помилку або проблему в кодовій базі_ |
+| fix: fix incorrect behavior or software defect | _виправляємо некоректну поведінки або дефект ПЗ_ |
+| fix: patch a security vulnerability in the authentication module | _виправляємо вразливість безпеки в модулі автентифікації_ |
+| fix: address performance issue in rendering component | _вирішуємо проблему з продуктивністю компонента візуалізації_ |
+| fix: resolve issue with incorrect data rendering | _вирішуємо проблеми з некоректним відтворенням даних_ |
+| fix: handle API response errors  | _обробляємо помилок відповідей API_ |
+| fix: fix broken link in navigation bar | _виправляємо пошкоджене посилання на навігаційній панелі_ |
 
 
-+ **fix:** (like **PATCH**)
-  - _fix: patche bug in codebase_
-  - _fix: resolve problem with_
-  - _fix: address bug or issue in codebase_
-  - _fix: fix incorrect behavior or software defect_
-  - _fix: Patch security vulnerability in authentication module_
-  - _fix: address performance issue in rendering component_
-  - _fix: resolve issue with incorrect data rendering_
-  - _fix: Correct error handling for API response_
-  - _fix: fix broken link in navigation bar_
-
-
-
+|         type: EN description                                |             UA description                             |
+|-------------------------------------------------------------|--------------------------------------------------------|
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
 
 
 + refactor:
@@ -131,7 +127,15 @@ _A specification for adding human and machine readable meaning to commit message
   - _refactor: remove redundant code_
 
 
-
+|         type: EN description                                |             UA description                             |
+|-------------------------------------------------------------|--------------------------------------------------------|
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
+|  | __ |
 
 + perf:
   - _perf: optimizate algorithm_
