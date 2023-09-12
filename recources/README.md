@@ -147,21 +147,18 @@ _A specification for adding human and machine readable meaning to commit message
 
 |         type: EN description                                |             UA description                             |
 |-------------------------------------------------------------|--------------------------------------------------------|
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-
-
-  - _ci: configure automated tests for pull requests_
-  - _ci: integrate code quality checks with SonarQube_
-  - _ci: made adjustments to integration or deployment processes_
-  - _ci: Update CI/CD configuration for deployment to production_
-  - _ci: set up continuous integration pipeline with Jenkins_
-  - _ci: add deployment pipeline for staging environment_  
+| ci: configure automated tests for pull requests | _налаштовуємо автоматичні тести для запитів на отримання_ |
+| ci: integrate code quality checks with SonarQube | _інтегруємо перевірку якості коду з SonarQube_ |
+| ci: made adjustments to integration or deployment processes | _вносимо зміни до процесів інтеграції або розгортання_ |
+| ci: Update CI/CD configuration for deployment to production | _оновлюємо конфігурацію CI/CD для розгортання у виробництві_ |
+| ci: set up continuous integration pipeline with Jenkins | _налаштовуємо конвеєр безперервної інтеграції з Jenkins_ |
+| ci: add deployment pipeline for staging environment | _додаємо конвеєр розгортання для проміжного середовища_ |
+| ci: automate deployment to staging environment on successful tests | _автоматизуємо розгортання в проміжному середовищі після успішних тестів_ |
+| ci: configure GitHub Actions workflow for running tests | _налаштувуємо робочий процес GitHub Actions для виконання тестів_ |
+| ci: integrate code style checks using ESLint | _інтегруємо перевірку стилю коду за допомогою ESLint_ |
+| ci: optimize build process for faster CI/CD | _оптимізуємо процесу збирання для швидшого CI/CD_ |
+| ci: add Slack notifications for build status updates | _додаємо сповіщення Slack для оновлень статусу збірки_ |
+  
 
 
 
