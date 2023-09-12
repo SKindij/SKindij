@@ -131,23 +131,18 @@ _A specification for adding human and machine readable meaning to commit message
 
 |         type: EN description                                |             UA description                             |
 |-------------------------------------------------------------|--------------------------------------------------------|
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-|  | __ |
-
-
-+ test:
-  - _test: add, modify, or update tests_
-  - _test: write integration tests for API endpoints_
-  - _test: add unit tests for user authentication module_
-  - _test: improve test coverage for data validation functions_
-  - _test: create test suite for edge cases and error scenarios_
-  - _test: ix failing test case in component rendering_
-  - _test: change unit or integration tests_  
+| test: add, modify, or update tests | _додаємо, змінюємо або оновлювлюємо тести_ |
+| test: write integration tests for API endpoints | _пишемо інтеграційні тести для кінцевих точок API_ |
+| test: add unit tests for user authentication module | _додаємо модульні тести для блоку автентифікації користувача_ |
+| test: improve test coverage for data validation functions | _покращуємо тестове покриття для функцій перевірки даних_ |
+| test: create test suite for edge cases and error scenarios | _створюємо набір тестів для крайніх випадків і сценаріїв помилок_ |
+| test: fix failing test case in component rendering | _виправляємо невдалий тестовий приклад у рендерингу компонентів_ |
+| test: change unit or integration tests | _змінюємо одиничні або інтеграційні тести_ |
+| test: refactor unit tests for improved readability | _рефакторимо модульні тести для покращення читабельності_ |
+| test: fix failing integration tests in user authentication | _виправляємо помилки тестів інтеграції в автентифікації користувача_ |
+| test: enhance test suite for performance benchmarking | _розширюємо набір тестів для порівняльного аналізу продуктивності_ |
+| test: add end-to-end tests for user registration process | _додаємо наскрізні тести для процесу реєстрації користувача_ |
+| test: update snapshot tests for UI components | _оновлюємо тести знімків для компонентів інтерфейсу користувача_ |   
 
 
 |         type: EN description                                |             UA description                             |
@@ -161,7 +156,6 @@ _A specification for adding human and machine readable meaning to commit message
 |  | __ |
 
 
-+ ci:
   - _ci: configure automated tests for pull requests_
   - _ci: integrate code quality checks with SonarQube_
   - _ci: made adjustments to integration or deployment processes_
