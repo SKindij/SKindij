@@ -55,6 +55,7 @@ _I love building web applications that solve real-world problems and improve use
 #### Here are some repositories I've created while learning about a different topics. 
 They contain information and code examples that I've gathered along the way.
 
+* [MERN training projects](https://github.com/SKindij/MERN-training-projects)
 * [Asynchronous Programming JS](https://github.com/SKindij/Asynchronous-Programming-JS)
 * [JavaScript Reference Guide](https://github.com/SKindij/JavaScript-Reference-Guide)
 * [Node.js Basics](https://github.com/SKindij/basics-of-Node.js)
