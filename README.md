@@ -13,23 +13,30 @@ _I love building web applications that solve real-world problems and improve use
 <table align="center">
   <thead align="center">
     <tr>  
-      <th colspan="9" border: none;> :hammer_and_wrench: Languages and Tools </th>  </tr>
+      <th colspan="8" border: none;> :hammer_and_wrench: Languages and Tools </th>  </tr>
     </tr>
   </thead>
   <tbody align="center">
     <tr>
-      <td colspan="2"><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Backend Development</b></a></td>
-      <td>...Nest.js</td>    
+      <td>  </td>    
       <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="60" /></td>
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/express-logo.svg" title="Express.js" alt="Express.js" width="45" /></td> 	    
       <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" /></td>
-      <td>...PostgreSQL</td>
+      <td>  </td>
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/mongodb-logo.svg" title="MongoDB" alt="MongoDB" width="50" /></td>
-      <td>...</td>    
+      <td>  </td>    
     </tr>
     <tr>
-      <td colspan="2"><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Workflow and Tools</b></a></td>
-      <td>...Next</td>
+      <td> Nest.js </td>    
+      <td> NodeJS </td>
+      <td> Express.js </td> 	    
+      <td> npm </td>
+      <td> PostgreSQL </td>
+      <td> MongoDB </td>
+      <td>  </td>    
+    </tr>
+    <tr>
+      <td>  </td>
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/typescript.svg" title="TypeScript" alt="TypeScript" width="30" /></td> 
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/material-ui-1.svg" title="Material-UI" alt="material-ui" width="40" /></td>    
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="70"/></td>
@@ -38,14 +45,31 @@ _I love building web applications that solve real-world problems and improve use
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/vscode-logo.svg" title="vscode" alt="vscode" width="34" /></td>
     </tr>
     <tr>
-      <td colspan="2"><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Web Development</b></a></td>
+      <td> Next </td>
+      <td> TypeScript </td> 
+      <td> Material-UI </td>    
+      <td> Webpack </td>
+      <td> Git </td>
+      <td> Markdown </td>
+      <td> vscode </td>
+    </tr>
+    <tr>
       <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/react-logo.svg" title="React" alt="React" width="40" /></td>
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="30" /></td>  
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/bootstrap-logo.svg" title="Bootstrap" alt="bootstrap" width="35" /></td> 	    
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/sass-logo.svg"  title="SASS" alt="SASS" width="35" /></td>   
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/html5-logo.svg" title="HTML5" alt="HTML" width="32" /></td>
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/css3-logo.svg"  title="CSS3" alt="CSS" width="32" /></td>
-      <td>...</td>
+      <td>  </td>
+    </tr>
+    <tr>
+      <td> React </td>
+      <td> JavaScript </td>  
+      <td> Bootstrap </td> 	    
+      <td> SASS </td>   
+      <td> HTML5 </td>
+      <td> CSS3 </td>
+      <td>  </td>
     </tr>
   </tbody>
 </table>
