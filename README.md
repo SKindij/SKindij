@@ -21,7 +21,7 @@ _I love building web applications that solve real-world problems and improve use
       <td colspan="2"><a href="https://github.com/SKindij/SKindij/blob/main/SKILLS.md"><b>Backend Development</b></a></td>
       <td>...Nest.js</td>    
       <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="60" /></td>
-      <td>...Express.js</td> 	    
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/express-logo.svg" title="Express.js" alt="Express.js" width="45" /></td> 	    
       <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" /></td>
       <td>...PostgreSQL</td>
       <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/mongodb-logo.svg" title="MongoDB" alt="MongoDB" width="50" /></td>
