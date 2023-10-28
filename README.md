@@ -76,7 +76,9 @@ _I love building web applications that solve real-world problems and improve use
 	
 - - -
 
-#### Here are some repositories I've created while learning about a different topics. 
+### Learning Journeys: My Educational Projects
+
+Here are some repositories I've created while learning about a different topics.\
 They contain information and code examples that I've gathered along the way.
 
 * [Asynchronous Programming JS](https://github.com/SKindij/Asynchronous-Programming-JS)
@@ -90,7 +92,7 @@ They contain information and code examples that I've gathered along the way.
 
 - - -
 
-### My projects
+### My Real-World Projects Portfolio
 
 * [RVA-expert](https://github.com/SKindij/RVA-expert)
   - **Tech Stack:** React (Vite), React-Router, Material UI;
