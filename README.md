@@ -10,6 +10,8 @@
 
 _I love building web applications that solve real-world problems and improve user experiences._
 
+- - -
+
 <table align="center">
   <thead align="center">
     <tr>  
@@ -18,58 +20,31 @@ _I love building web applications that solve real-world problems and improve use
   </thead>
   <tbody align="center">
     <tr>
-      <td>  </td>    
-      <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="60" /></td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/express-logo.svg" title="Express.js" alt="Express.js" width="45" /></td> 	    
-      <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" /></td>
-      <td>  </td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/mongodb-logo.svg" title="MongoDB" alt="MongoDB" width="50" /></td>
-      <td>  </td>    
-    </tr>
-    <tr>
-      <td> Nest.js </td>    
-      <td> NodeJS </td>
-      <td> Express.js </td> 	    
-      <td> npm </td>
-      <td> PostgreSQL </td>
-      <td> MongoDB </td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/nestjs.svg" title="Nest.js" alt="Nest.js" width="45" /><br>Nest</td>    
+      <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="55" /><br>Node</td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/express-logo.svg" title="Express.js" alt="Express.js" width="45" /><br>Express</td> 	    
+      <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/npm-logo.svg" title="npm" alt="npm" width="40" /><br>npm</td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/postgresql-icon.svg" title="PostgreSQL" alt="PostgreSQL" width="40" /><br>PostgreSQL</td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/mongodb-logo.svg" title="MongoDB" alt="MongoDB" width="50" /><br>MongoDB</td>
       <td>  </td>    
     </tr>
     <tr>
-      <td>  </td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/typescript.svg" title="TypeScript" alt="TypeScript" width="30" /></td> 
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/material-ui-1.svg" title="Material-UI" alt="material-ui" width="40" /></td>    
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="70"/></td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/git-logo.svg" title="Git" alt="Git" width="50" /></td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/markdown-logo.svg" title="Markdown" alt="Markdown" width="40" />  </td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/vscode-logo.svg" title="vscode" alt="vscode" width="34" /></td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/nextjs-logo.svg" title="" alt="" width="30" /><br>Next</td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/typescript.svg" title="TypeScript" alt="TypeScript" width="30" /><br>TypeScript</td> 
+      <td><img src="" title="" alt="" width="40" /><br></td>    
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/webpack-logo.svg" title="Webpack" alt="Webpack" width="50"/><br>Webpack</td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/git-logo.svg" title="Git" alt="Git" width="50" /><br>Git</td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/markdown-logo.svg" title="Markdown" alt="Markdown" width="40" /><br>Markdown</td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/vscode-logo.svg" title="vscode" alt="vscode" width="34" /><br>vscode</td>
     </tr>
     <tr>
-      <td> Next </td>
-      <td> TypeScript </td> 
-      <td> Material-UI </td>    
-      <td> Webpack </td>
-      <td> Git </td>
-      <td> Markdown </td>
-      <td> vscode </td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/react-logo.svg" title="React" alt="React" width="40" /></td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="30" /></td>  
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/bootstrap-logo.svg" title="Bootstrap" alt="bootstrap" width="35" /></td> 	    
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/sass-logo.svg"  title="SASS" alt="SASS" width="35" /></td>   
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/html5-logo.svg" title="HTML5" alt="HTML" width="32" /></td>
-      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/css3-logo.svg"  title="CSS3" alt="CSS" width="32" /></td>
-      <td>  </td>
-    </tr>
-    <tr>
-      <td> React </td>
-      <td> JavaScript </td>  
-      <td> Bootstrap </td> 	    
-      <td> SASS </td>   
-      <td> HTML5 </td>
-      <td> CSS3 </td>
-      <td>  </td>
+      <td><img src="https://raw.githubusercontent.com/SKindij/SKindij/main/logos/react-logo.svg" title="React" alt="React" width="40" /><br>React</td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="30" /><br>JavaScript</td> 
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/material-ui-1.svg" title="Material-UI" alt="material-ui" width="40" /><br>Material-UI</td>     
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/bootstrap-logo.svg" title="Bootstrap" alt="bootstrap" width="35" /><br>Bootstrap</td> 	    
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/sass-logo.svg"  title="SASS" alt="SASS" width="35" /><br>SASS</td>   
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/html5-logo.svg" title="HTML5" alt="HTML5" width="32" /><br>HTML5</td>
+      <td><img src="https://github.com/SKindij/SKindij/blob/main/logos/css3-logo.svg"  title="CSS3" alt="CSS" width="32" /><br>CSS3</td>
     </tr>
   </tbody>
 </table>
@@ -109,9 +84,9 @@ They contain information and code examples that I've gathered along the way.
 
 - - -	
 
-### Let's Connect!
+### Let's Connect and Create Together!
 
-I'm always open to new opportunities and collaborations.
+I'm enthusiastic about taking on new challenges and working on exciting projects.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/serhii-kindiakov/">
