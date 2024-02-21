@@ -56,6 +56,7 @@ _I love building web applications that solve real-world problems and improve use
 Here are some repositories I've created while learning about a different topics.\
 They contain information and code examples that I've gathered along the way.
 
+* [Next.js-synopsis](https://github.com/SKindij/Next.js-synopsis)
 * [Asynchronous Programming JS](https://github.com/SKindij/Asynchronous-Programming-JS)
 * [JavaScript Reference Guide](https://github.com/SKindij/JavaScript-Reference-Guide)
 * [Node.js Basics](https://github.com/SKindij/basics-of-Node.js)
@@ -69,6 +70,10 @@ They contain information and code examples that I've gathered along the way.
 
 ### My Real-World Projects Portfolio
 
+* [Angel-ZSU](https://github.com/SKindij/Angel-ZSU)
+  - **Tech Stack:** Next.js (App Router, TypeScript), PostgreSQL, Material UI;
+  - **NPM Tools:** next-auth, @vercel/postgres;
+  - **Description:** 
 * [RVA-expert](https://github.com/SKindij/RVA-expert)
   - **Tech Stack:** React (Vite), React-Router, Material UI;
   - **NPM Tools:** react-helmet, prop-types, react-responsive-carousel;
