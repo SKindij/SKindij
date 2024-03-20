@@ -72,8 +72,8 @@ They contain information and code examples that I've gathered along the way.
 
 * [Angel-ZSU](https://github.com/SKindij/Angel-ZSU)
   - **Tech Stack:** Next.js (App Router, TypeScript), PostgreSQL, Material UI;
-  - **NPM Tools:** next-auth, @vercel/postgres;
-  - **Description:** 
+  - **NPM Tools:** next-auth, zod, bcrypt, @vercel/postgres;
+  - **Description:** _Excited to unveil the 'Angel of the Armed Forces of Ukraine' Charitable Fund Website! Our platform offers a seamless user experience with intuitive design, integrated multimedia, and secure admin access. Join us in supporting Ukraine's military personnel by exploring our site and getting involved today!_
 * [RVA-expert](https://github.com/SKindij/RVA-expert)
   - **Tech Stack:** React (Vite), React-Router, Material UI;
   - **NPM Tools:** react-helmet, prop-types, react-responsive-carousel;
